@@ -1,26 +1,12 @@
 {
-  "updated_at": "2026-11-20T05:49:08.000Z",
+  "updated_at": "2026-11-20T06:00:00.516Z",
   "videos": [
     {
       "manager": "강미경",
-      "creator": "vaanioccultist",
-      "url": "https://www.tiktok.com/@vaanioccultist/video/7691418737794207007",
-      "video_id": "7691418737794207007",
-      "views": 3
-    },
-    {
-      "manager": "강미경",
-      "creator": "jang_seun",
-      "url": "https://www.tiktok.com/@yangm94/video/7691710049407798550",
-      "video_id": "7691710049407798550",
-      "views": 296
-    },
-    {
-      "manager": "강미경",
-      "creator": "mery.sebast",
-      "url": "https://www.tiktok.com/@mery.sebast/video/7691933427238505734",
-      "video_id": "7691933427238505734",
-      "views": 194
+      "creator": "itsjacklynne",
+      "url": "https://www.tiktok.com/@itsjacklynne/video/7692172253357673746",
+      "video_id": "7692172253357673746",
+      "views": 382
     },
     {
       "manager": "강미경",
@@ -31,10 +17,10 @@
     },
     {
       "manager": "강미경",
-      "creator": "evielii",
-      "url": "https://www.tiktok.com/@evielii/video/7691913179001031944",
-      "video_id": "7691913179001031944",
-      "views": 792
+      "creator": "_melanie.ide_",
+      "url": "https://www.tiktok.com/@melanieid/video/7692498249978105096",
+      "video_id": "7692498249978105096",
+      "views": 207
     },
     {
       "manager": "강미경",
@@ -45,27 +31,6 @@
     },
     {
       "manager": "강미경",
-      "creator": "itsjacklynne",
-      "url": "https://www.tiktok.com/@itsjacklynne/video/7692172253357673746",
-      "video_id": "7692172253357673746",
-      "views": 382
-    },
-    {
-      "manager": "강미경",
-      "creator": "s_makania",
-      "url": "https://www.tiktok.com/@s_makania/video/7692430775173532946",
-      "video_id": "7692430775173532946",
-      "views": 755
-    },
-    {
-      "manager": "강미경",
-      "creator": "jyyrho",
-      "url": "https://www.tiktok.com/@jyyrho/video/7692513561964317959",
-      "video_id": "7692513561964317959",
-      "views": 323
-    },
-    {
-      "manager": "강미경",
       "creator": "sol_e16",
       "url": "https://www.tiktok.com/@sol_e16/video/7692964360158727431",
       "video_id": "7692964360158727431",
@@ -73,17 +38,10 @@
     },
     {
       "manager": "강미경",
-      "creator": "gurpreet.glow.ugc",
-      "url": "https://www.tiktok.com/@gurpreet.glow.ugc/video/7692493272568073479",
-      "video_id": "7692493272568073479",
-      "views": 648
-    },
-    {
-      "manager": "강미경",
-      "creator": "maryjunfiltered",
-      "url": "https://www.tiktok.com/@maryjunfiltered/video/7691793740150656278",
-      "video_id": "7691793740150656278",
-      "views": 564
+      "creator": "evielii",
+      "url": "https://www.tiktok.com/@evielii/video/7691913179001031944",
+      "video_id": "7691913179001031944",
+      "views": 792
     },
     {
       "manager": "강미경",
@@ -94,17 +52,10 @@
     },
     {
       "manager": "강미경",
-      "creator": "liliagzmy",
-      "url": "https://www.tiktok.com/@liliagzmy/video/7694098279621020946",
-      "video_id": "7694098279621020946",
-      "views": 297
-    },
-    {
-      "manager": "강미경",
-      "creator": "flygirl4everr",
-      "url": "https://www.tiktok.com/@flygirl4everr/video/7693587445782154517",
-      "video_id": "7693587445782154517",
-      "views": 702
+      "creator": "maryjunfiltered",
+      "url": "https://www.tiktok.com/@maryjunfiltered/video/7691793740150656278",
+      "video_id": "7691793740150656278",
+      "views": 564
     },
     {
       "manager": "강미경",
@@ -122,6 +73,13 @@
     },
     {
       "manager": "강미경",
+      "creator": "jang_seun",
+      "url": "https://www.tiktok.com/@yangm94/video/7691710049407798550",
+      "video_id": "7691710049407798550",
+      "views": 296
+    },
+    {
+      "manager": "강미경",
       "creator": "sintela2",
       "url": "https://www.tiktok.com/@sintela2/video/7693994837980302623",
       "video_id": "7693994837980302623",
@@ -129,31 +87,38 @@
     },
     {
       "manager": "강미경",
-      "creator": "_melanie.ide_",
-      "url": "https://www.tiktok.com/@melanieid/video/7692498249978105096",
-      "video_id": "7692498249978105096",
-      "views": 207
+      "creator": "mery.sebast",
+      "url": "https://www.tiktok.com/@mery.sebast/video/7691933427238505734",
+      "video_id": "7691933427238505734",
+      "views": 194
     },
     {
       "manager": "강미경",
-      "creator": "momoffaith0",
-      "url": "https://www.tiktok.com/@momoffaith0/video/7693245577957559585",
-      "video_id": "7693245577957559585",
-      "views": 4930
+      "creator": "vaanioccultist",
+      "url": "https://www.tiktok.com/@vaanioccultist/video/7691418737794207007",
+      "video_id": "7691418737794207007",
+      "views": 3
     },
     {
       "manager": "강미경",
-      "creator": "ririsu.beauty",
-      "url": "https://www.tiktok.com/@ririsu.beauty/video/7695508955283344647",
-      "video_id": "7695508955283344647",
-      "views": 633
+      "creator": "jyyrho",
+      "url": "https://www.tiktok.com/@jyyrho/video/7692513561964317959",
+      "video_id": "7692513561964317959",
+      "views": 323
     },
     {
       "manager": "강미경",
-      "creator": "cinthia_urrieta",
-      "url": "https://www.tiktok.com/@cinthiaurrieta/video/7694456322330316050",
-      "video_id": "7694456322330316050",
-      "views": 309
+      "creator": "s_makania",
+      "url": "https://www.tiktok.com/@s_makania/video/7692430775173532946",
+      "video_id": "7692430775173532946",
+      "views": 755
+    },
+    {
+      "manager": "강미경",
+      "creator": "flygirl4everr",
+      "url": "https://www.tiktok.com/@flygirl4everr/video/7693587445782154517",
+      "video_id": "7693587445782154517",
+      "views": 702
     },
     {
       "manager": "강미경",
@@ -164,31 +129,17 @@
     },
     {
       "manager": "강미경",
-      "creator": "jenniebill2",
-      "url": "https://www.tiktok.com/@jenniebill2/video/7695012307251809543",
-      "video_id": "7695012307251809543",
-      "views": 538
+      "creator": "ririsu.beauty",
+      "url": "https://www.tiktok.com/@ririsu.beauty/video/7695508955283344647",
+      "video_id": "7695508955283344647",
+      "views": 633
     },
     {
       "manager": "강미경",
-      "creator": "lovedbychristkeisha",
-      "url": "https://www.tiktok.com/@yusss_234_ugc/video/7695525175382658325",
-      "video_id": "7695525175382658325",
-      "views": 260
-    },
-    {
-      "manager": "강미경",
-      "creator": "just.anasuya",
-      "url": "https://www.tiktok.com/@just.anasuya/video/7695488925321678094",
-      "video_id": "7695488925321678094",
-      "views": 109
-    },
-    {
-      "manager": "강미경",
-      "creator": "jytsn.vibes",
-      "url": "https://www.tiktok.com/@jytsn.vibes/video/7694874178599636245",
-      "video_id": "7694874178599636245",
-      "views": 377
+      "creator": "gurpreet.glow.ugc",
+      "url": "https://www.tiktok.com/@gurpreet.glow.ugc/video/7692493272568073479",
+      "video_id": "7692493272568073479",
+      "views": 648
     },
     {
       "manager": "강미경",
@@ -199,17 +150,17 @@
     },
     {
       "manager": "강미경",
-      "creator": "lae.andres",
-      "url": "https://www.tiktok.com/@lae.andres/video/7695818275317435662",
-      "video_id": "7695818275317435662",
-      "views": 522
-    },
-    {
-      "manager": "강미경",
       "creator": "xox.oluchi.xox",
       "url": "https://www.tiktok.com/@xox.oluchi.xox/video/7694108889326963976",
       "video_id": "7694108889326963976",
       "views": 553
+    },
+    {
+      "manager": "강미경",
+      "creator": "momoffaith0",
+      "url": "https://www.tiktok.com/@momoffaith0/video/7693245577957559585",
+      "video_id": "7693245577957559585",
+      "views": 4930
     },
     {
       "manager": "강미경",
@@ -220,45 +171,10 @@
     },
     {
       "manager": "강미경",
-      "creator": "mar_ie11a",
-      "url": "https://www.tiktok.com/@mar_ie11a/video/7696273596083195157",
-      "video_id": "7696273596083195157",
-      "views": 1222
-    },
-    {
-      "manager": "강미경",
-      "creator": "lyn.velvet",
-      "url": "https://www.tiktok.com/@lyn.velvet/video/7694356071929957653",
-      "video_id": "7694356071929957653",
-      "views": 339
-    },
-    {
-      "manager": "강미경",
-      "creator": "leinalyvitee",
-      "url": "https://www.tiktok.com/@leinalyvitee/video/7695899610321128705",
-      "video_id": "7695899610321128705",
-      "views": 557
-    },
-    {
-      "manager": "강미경",
-      "creator": "ugc_by_lilyj",
-      "url": "https://www.tiktok.com/@lilysdigidiary/video/7694029644235885846",
-      "video_id": "7694029644235885846",
-      "views": 740
-    },
-    {
-      "manager": "강미경",
-      "creator": "bybonniemaison",
-      "url": "https://www.tiktok.com/@bybonniemaison/video/7696575618707705106",
-      "video_id": "7696575618707705106",
-      "views": 818
-    },
-    {
-      "manager": "강미경",
-      "creator": "claudehoyos",
-      "url": "https://www.tiktok.com/@claudehoyos/video/7695830942409051398",
-      "video_id": "7695830942409051398",
-      "views": 948
+      "creator": "liliagzmy",
+      "url": "https://www.tiktok.com/@liliagzmy/video/7694098279621020946",
+      "video_id": "7694098279621020946",
+      "views": 297
     },
     {
       "manager": "강미경",
@@ -269,31 +185,24 @@
     },
     {
       "manager": "강미경",
-      "creator": "areliramos32",
-      "url": "https://www.tiktok.com/@areliramos32/video/7696938893748292885",
-      "video_id": "7696938893748292885",
-      "views": 385
+      "creator": "mar_ie11a",
+      "url": "https://www.tiktok.com/@mar_ie11a/video/7696273596083195157",
+      "video_id": "7696273596083195157",
+      "views": 1222
     },
     {
       "manager": "강미경",
-      "creator": "vernaehogue",
-      "url": "https://www.tiktok.com/@vernaehogue/video/7696660552377978143",
-      "video_id": "7696660552377978143",
-      "views": 200
+      "creator": "lae.andres",
+      "url": "https://www.tiktok.com/@lae.andres/video/7695818275317435662",
+      "video_id": "7695818275317435662",
+      "views": 522
     },
     {
       "manager": "강미경",
-      "creator": "8balltrina",
-      "url": "https://www.tiktok.com/@8balltrina/video/7695990470983322893",
-      "video_id": "7695990470983322893",
-      "views": 162
-    },
-    {
-      "manager": "강미경",
-      "creator": "lizzypim",
-      "url": "https://www.tiktok.com/@lizzypimus/video/7697013832467762446",
-      "video_id": "7697013832467762446",
-      "views": 1671
+      "creator": "just.anasuya",
+      "url": "https://www.tiktok.com/@just.anasuya/video/7695488925321678094",
+      "video_id": "7695488925321678094",
+      "views": 109
     },
     {
       "manager": "강미경",
@@ -304,17 +213,80 @@
     },
     {
       "manager": "강미경",
-      "creator": "eunimarc_makeup",
-      "url": "https://www.tiktok.com/@eunimarc_makeup/video/7696664374915648781",
-      "video_id": "7696664374915648781",
+      "creator": "lyn.velvet",
+      "url": "https://www.tiktok.com/@lyn.velvet/video/7694356071929957653",
+      "video_id": "7694356071929957653",
+      "views": 339
+    },
+    {
+      "manager": "강미경",
+      "creator": "lovedbychristkeisha",
+      "url": "https://www.tiktok.com/@yusss_234_ugc/video/7695525175382658325",
+      "video_id": "7695525175382658325",
+      "views": 260
+    },
+    {
+      "manager": "강미경",
+      "creator": "jytsn.vibes",
+      "url": "https://www.tiktok.com/@jytsn.vibes/video/7694874178599636245",
+      "video_id": "7694874178599636245",
+      "views": 377
+    },
+    {
+      "manager": "강미경",
+      "creator": "areliramos32",
+      "url": "https://www.tiktok.com/@areliramos32/video/7696938893748292885",
+      "video_id": "7696938893748292885",
+      "views": 385
+    },
+    {
+      "manager": "강미경",
+      "creator": "8balltrina",
+      "url": "https://www.tiktok.com/@8balltrina/video/7695990470983322893",
+      "video_id": "7695990470983322893",
+      "views": 162
+    },
+    {
+      "manager": "강미경",
+      "creator": "claudehoyos",
+      "url": "https://www.tiktok.com/@claudehoyos/video/7695830942409051398",
+      "video_id": "7695830942409051398",
+      "views": 948
+    },
+    {
+      "manager": "강미경",
+      "creator": "cinthia_urrieta",
+      "url": "https://www.tiktok.com/@cinthiaurrieta/video/7694456322330316050",
+      "video_id": "7694456322330316050",
       "views": 309
+    },
+    {
+      "manager": "강미경",
+      "creator": "leinalyvitee",
+      "url": "https://www.tiktok.com/@leinalyvitee/video/7695899610321128705",
+      "video_id": "7695899610321128705",
+      "views": 557
     },
     {
       "manager": "강미경",
       "creator": "ogesworld0",
       "url": "https://www.tiktok.com/@ogesworld0/video/7697756382749101313",
       "video_id": "7697756382749101313",
-      "views": 1080
+      "views": 1082
+    },
+    {
+      "manager": "강미경",
+      "creator": "lizzypim",
+      "url": "https://www.tiktok.com/@lizzypimus/video/7697013832467762446",
+      "video_id": "7697013832467762446",
+      "views": 1672
+    },
+    {
+      "manager": "강미경",
+      "creator": "eunimarc_makeup",
+      "url": "https://www.tiktok.com/@eunimarc_makeup/video/7696664374915648781",
+      "video_id": "7696664374915648781",
+      "views": 309
     },
     {
       "manager": "강미경",
@@ -328,21 +300,21 @@
       "creator": "andre_serrot",
       "url": "https://www.tiktok.com/@andreatorre1002/video/7698202932218563854",
       "video_id": "7698202932218563854",
-      "views": 557
+      "views": 558
     },
     {
       "manager": "강미경",
-      "creator": "renatamb10",
-      "url": "https://www.tiktok.com/@renatamb10/video/7696721637353278738",
-      "video_id": "7696721637353278738",
-      "views": 367
+      "creator": "heri_dani2",
+      "url": "https://www.tiktok.com/@heri_dani2/video/7697766585141955860",
+      "video_id": "7697766585141955860",
+      "views": 433
     },
     {
       "manager": "강미경",
-      "creator": "ladelospilates",
-      "url": "https://www.tiktok.com/@ladelospilates/video/7697836043554295060",
-      "video_id": "7697836043554295060",
-      "views": 1484
+      "creator": "jenniebill2",
+      "url": "https://www.tiktok.com/@jenniebill2/video/7695012307251809543",
+      "video_id": "7695012307251809543",
+      "views": 538
     },
     {
       "manager": "강미경",
@@ -353,10 +325,45 @@
     },
     {
       "manager": "강미경",
-      "creator": "its.alondra95",
-      "url": "https://www.tiktok.com/@its.alondra95/video/7699189390618217749",
-      "video_id": "7699189390618217749",
-      "views": 1116
+      "creator": "ugc_by_lilyj",
+      "url": "https://www.tiktok.com/@lilysdigidiary/video/7694029644235885846",
+      "video_id": "7694029644235885846",
+      "views": 740
+    },
+    {
+      "manager": "강미경",
+      "creator": "vernaehogue",
+      "url": "https://www.tiktok.com/@vernaehogue/video/7696660552377978143",
+      "video_id": "7696660552377978143",
+      "views": 200
+    },
+    {
+      "manager": "강미경",
+      "creator": "ladelospilates",
+      "url": "https://www.tiktok.com/@ladelospilates/video/7697836043554295060",
+      "video_id": "7697836043554295060",
+      "views": 1484
+    },
+    {
+      "manager": "강미경",
+      "creator": "bybonniemaison",
+      "url": "https://www.tiktok.com/@bybonniemaison/video/7696575618707705106",
+      "video_id": "7696575618707705106",
+      "views": 818
+    },
+    {
+      "manager": "강미경",
+      "creator": "renatamb10",
+      "url": "https://www.tiktok.com/@renatamb10/video/7696721637353278738",
+      "video_id": "7696721637353278738",
+      "views": 367
+    },
+    {
+      "manager": "강미경",
+      "creator": "lilis.ugc7",
+      "url": "https://www.tiktok.com/@lilis.ugc7/video/7698534163003084050",
+      "video_id": "7698534163003084050",
+      "views": 382
     },
     {
       "manager": "강미경",
@@ -374,38 +381,10 @@
     },
     {
       "manager": "강미경",
-      "creator": "heri_dani2",
-      "url": "https://www.tiktok.com/@heri_dani2/video/7697766585141955860",
-      "video_id": "7697766585141955860",
-      "views": 433
-    },
-    {
-      "manager": "강미경",
-      "creator": "lilis.ugc7",
-      "url": "https://www.tiktok.com/@lilis.ugc7/video/7698534163003084050",
-      "video_id": "7698534163003084050",
-      "views": 382
-    },
-    {
-      "manager": "강미경",
       "creator": "ma.jo.reyes",
       "url": "https://www.tiktok.com/@ma.jo.reyes/video/7696680326206098706",
       "video_id": "7696680326206098706",
       "views": 577
-    },
-    {
-      "manager": "강미경",
-      "creator": "honestlifebytes",
-      "url": "https://www.tiktok.com/@honestlifebytes/video/7699256923698384158",
-      "video_id": "7699256923698384158",
-      "views": 76
-    },
-    {
-      "manager": "강미경",
-      "creator": "saidaintoronto",
-      "url": "https://www.tiktok.com/@saidaintoronto/video/7698204404410748177",
-      "video_id": "7698204404410748177",
-      "views": 2443
     },
     {
       "manager": "강미경",
@@ -416,27 +395,6 @@
     },
     {
       "manager": "강미경",
-      "creator": "cuidado.coreano",
-      "url": "https://www.tiktok.com/@cuidado.coreano/video/7699558013589654805",
-      "video_id": "7699558013589654805",
-      "views": 351
-    },
-    {
-      "manager": "강미경",
-      "creator": "karina.ance",
-      "url": "https://www.tiktok.com/@karina.ance/video/7699703741661924629",
-      "video_id": "7699703741661924629",
-      "views": 925
-    },
-    {
-      "manager": "강미경",
-      "creator": "ramya.manoj",
-      "url": "https://www.tiktok.com/@ramya.manoj/video/7698202902845771029",
-      "video_id": "7698202902845771029",
-      "views": 368
-    },
-    {
-      "manager": "강미경",
       "creator": "ugc.ninia",
       "url": "https://www.tiktok.com/@ugc.ninia/video/7698765063959661844",
       "video_id": "7698765063959661844",
@@ -444,17 +402,24 @@
     },
     {
       "manager": "강미경",
-      "creator": "anuzzaaa",
-      "url": "https://www.tiktok.com/@anuzzaaa/video/7698542685052849416",
-      "video_id": "7698542685052849416",
-      "views": 678
+      "creator": "ramya.manoj",
+      "url": "https://www.tiktok.com/@ramya.manoj/video/7698202902845771029",
+      "video_id": "7698202902845771029",
+      "views": 369
     },
     {
       "manager": "강미경",
-      "creator": "kjourney08",
-      "url": "https://www.tiktok.com/@kjourney08/video/7699544828350057749",
-      "video_id": "7699544828350057749",
-      "views": 321
+      "creator": "karina.ance",
+      "url": "https://www.tiktok.com/@karina.ance/video/7699703741661924629",
+      "video_id": "7699703741661924629",
+      "views": 926
+    },
+    {
+      "manager": "강미경",
+      "creator": "cuidado.coreano",
+      "url": "https://www.tiktok.com/@cuidado.coreano/video/7699558013589654805",
+      "video_id": "7699558013589654805",
+      "views": 351
     },
     {
       "manager": "강미경",
@@ -465,17 +430,17 @@
     },
     {
       "manager": "강미경",
-      "creator": "lizyquintt",
-      "url": "https://www.tiktok.com/@lizyquintt/video/7698927715935653140",
-      "video_id": "7698927715935653140",
-      "views": 335
+      "creator": "katmullan",
+      "url": "https://www.tiktok.com/@katerin.mullan/video/7699981722019990797",
+      "video_id": "7699981722019990797",
+      "views": 119
     },
     {
       "manager": "강미경",
-      "creator": "shantivee1",
-      "url": "https://www.tiktok.com/@shantivee1/video/7700116303188741394",
-      "video_id": "7700116303188741394",
-      "views": 1907
+      "creator": "anuzzaaa",
+      "url": "https://www.tiktok.com/@anuzzaaa/video/7698542685052849416",
+      "video_id": "7698542685052849416",
+      "views": 679
     },
     {
       "manager": "강미경",
@@ -493,136 +458,24 @@
     },
     {
       "manager": "강미경",
-      "creator": "sam_guther",
-      "url": "https://www.tiktok.com/@sam_guther/video/7700829702805572885",
-      "video_id": "7700829702805572885",
-      "views": 637
+      "creator": "saidaintoronto",
+      "url": "https://www.tiktok.com/@saidaintoronto/video/7698204404410748177",
+      "video_id": "7698204404410748177",
+      "views": 2443
     },
     {
       "manager": "강미경",
-      "creator": "yulmadeaussaa",
-      "url": "https://www.tiktok.com/@yulmadeaussaa/video/7700787118611680519",
-      "video_id": "7700787118611680519",
-      "views": 102
+      "creator": "shantivee1",
+      "url": "https://www.tiktok.com/@shantivee1/video/7700116303188741394",
+      "video_id": "7700116303188741394",
+      "views": 1907
     },
     {
       "manager": "강미경",
-      "creator": "alejaandra_delacruz3",
-      "url": "https://www.tiktok.com/@alejaandra_delacruz3/video/7699630899876416775",
-      "video_id": "7699630899876416775",
-      "views": 15600
-    },
-    {
-      "manager": "강미경",
-      "creator": "thebashfamily_",
-      "url": "https://www.tiktok.com/@thebashfamily_/video/7700637913054186772",
-      "video_id": "7700637913054186772",
-      "views": 541
-    },
-    {
-      "manager": "강미경",
-      "creator": "brenda.vazquez1",
-      "url": "https://www.tiktok.com/@brenda.vazquez1/video/7700381607873596692",
-      "video_id": "7700381607873596692",
-      "views": 3454
-    },
-    {
-      "manager": "강미경",
-      "creator": "makeupbygursharn",
-      "url": "https://www.tiktok.com/@makeupbygursharn/video/7701538000144190772",
-      "video_id": "7701538000144190772",
-      "views": 341
-    },
-    {
-      "manager": "강미경",
-      "creator": "nbrar3007",
-      "url": "https://www.tiktok.com/@nbrar3007/video/7698781103951203604",
-      "video_id": "7698781103951203604",
-      "views": 23300
-    },
-    {
-      "manager": "강미경",
-      "creator": "gursheensuri",
-      "url": "https://www.tiktok.com/@gursheen_ugc/video/7701557305652841749",
-      "video_id": "7701557305652841749",
-      "views": 244
-    },
-    {
-      "manager": "강미경",
-      "creator": "katmullan",
-      "url": "https://www.tiktok.com/@katerin.mullan/video/7699981722019990797",
-      "video_id": "7699981722019990797",
-      "views": 119
-    },
-    {
-      "manager": "강미경",
-      "creator": "elaine_forever",
-      "url": "https://www.tiktok.com/@elaine_forever/video/7701324136123010324",
-      "video_id": "7701324136123010324",
-      "views": 576
-    },
-    {
-      "manager": "강미경",
-      "creator": "mseyitemi__",
-      "url": "https://www.tiktok.com/@mseyitemi__/video/7701524093119696151",
-      "video_id": "7701524093119696151",
-      "views": 330
-    },
-    {
-      "manager": "강미경",
-      "creator": "an1ssa_m",
-      "url": "https://www.tiktok.com/@an1ssa_m/video/7698492438213659905",
-      "video_id": "7698492438213659905",
-      "views": 456
-    },
-    {
-      "manager": "강미경",
-      "creator": "icandyvv",
-      "url": "https://www.tiktok.com/@icandyvv/video/7701208950657649940",
-      "video_id": "7701208950657649940",
-      "views": 297
-    },
-    {
-      "manager": "강미경",
-      "creator": "yoya.ponce",
-      "url": "https://www.tiktok.com/@yoya.ponce/video/7700486781808004360",
-      "video_id": "7700486781808004360",
-      "views": 561
-    },
-    {
-      "manager": "강미경",
-      "creator": "skincarewitharuna1",
-      "url": "https://www.tiktok.com/@skincarewitharuna1/video/7700345957732371733",
-      "video_id": "7700345957732371733",
-      "views": 353
-    },
-    {
-      "manager": "강미경",
-      "creator": "ge_bellougc",
-      "url": "https://www.tiktok.com/@ge_bellougc/video/7701219538569923853",
-      "video_id": "7701219538569923853",
-      "views": 647
-    },
-    {
-      "manager": "강미경",
-      "creator": "coreanafloja",
-      "url": "https://www.tiktok.com/@coreanafloja/video/7701311608445914388",
-      "video_id": "7701311608445914388",
-      "views": 11600
-    },
-    {
-      "manager": "강미경",
-      "creator": "cindyxchen99",
-      "url": "https://www.tiktok.com/@cindyxchen99/video/7701519413740277022",
-      "video_id": "7701519413740277022",
-      "views": 555
-    },
-    {
-      "manager": "강미경",
-      "creator": "alebtips",
-      "url": "https://www.tiktok.com/@alebtips/video/7701527984020131103",
-      "video_id": "7701527984020131103",
-      "views": 137
+      "creator": "its.alondra95",
+      "url": "https://www.tiktok.com/@its.alondra95/video/7699189390618217749",
+      "video_id": "7699189390618217749",
+      "views": 1116
     },
     {
       "manager": "강미경",
@@ -633,6 +486,118 @@
     },
     {
       "manager": "강미경",
+      "creator": "thebashfamily_",
+      "url": "https://www.tiktok.com/@thebashfamily_/video/7700637913054186772",
+      "video_id": "7700637913054186772",
+      "views": 541
+    },
+    {
+      "manager": "강미경",
+      "creator": "marizachaib",
+      "url": "https://www.tiktok.com/@marizachaib2/video/7699161823542529311",
+      "video_id": "7699161823542529311",
+      "views": 111
+    },
+    {
+      "manager": "강미경",
+      "creator": "honestlifebytes",
+      "url": "https://www.tiktok.com/@honestlifebytes/video/7699256923698384158",
+      "video_id": "7699256923698384158",
+      "views": 76
+    },
+    {
+      "manager": "강미경",
+      "creator": "kjourney08",
+      "url": "https://www.tiktok.com/@kjourney08/video/7699544828350057749",
+      "video_id": "7699544828350057749",
+      "views": 321
+    },
+    {
+      "manager": "강미경",
+      "creator": "lizyquintt",
+      "url": "https://www.tiktok.com/@lizyquintt/video/7698927715935653140",
+      "video_id": "7698927715935653140",
+      "views": 335
+    },
+    {
+      "manager": "강미경",
+      "creator": "nbrar3007",
+      "url": "https://www.tiktok.com/@nbrar3007/video/7698781103951203604",
+      "video_id": "7698781103951203604",
+      "views": 23300
+    },
+    {
+      "manager": "강미경",
+      "creator": "sam_guther",
+      "url": "https://www.tiktok.com/@sam_guther/video/7700829702805572885",
+      "video_id": "7700829702805572885",
+      "views": 637
+    },
+    {
+      "manager": "강미경",
+      "creator": "cindyxchen99",
+      "url": "https://www.tiktok.com/@cindyxchen99/video/7701519413740277022",
+      "video_id": "7701519413740277022",
+      "views": 555
+    },
+    {
+      "manager": "강미경",
+      "creator": "ge_bellougc",
+      "url": "https://www.tiktok.com/@ge_bellougc/video/7701219538569923853",
+      "video_id": "7701219538569923853",
+      "views": 647
+    },
+    {
+      "manager": "강미경",
+      "creator": "skincarewitharuna1",
+      "url": "https://www.tiktok.com/@skincarewitharuna1/video/7700345957732371733",
+      "video_id": "7700345957732371733",
+      "views": 353
+    },
+    {
+      "manager": "강미경",
+      "creator": "brenda.vazquez1",
+      "url": "https://www.tiktok.com/@brenda.vazquez1/video/7700381607873596692",
+      "video_id": "7700381607873596692",
+      "views": 3455
+    },
+    {
+      "manager": "강미경",
+      "creator": "makeupbygursharn",
+      "url": "https://www.tiktok.com/@makeupbygursharn/video/7701538000144190772",
+      "video_id": "7701538000144190772",
+      "views": 341
+    },
+    {
+      "manager": "강미경",
+      "creator": "alebtips",
+      "url": "https://www.tiktok.com/@alebtips/video/7701527984020131103",
+      "video_id": "7701527984020131103",
+      "views": 137
+    },
+    {
+      "manager": "강미경",
+      "creator": "elaine_forever",
+      "url": "https://www.tiktok.com/@elaine_forever/video/7701324136123010324",
+      "video_id": "7701324136123010324",
+      "views": 576
+    },
+    {
+      "manager": "강미경",
+      "creator": "yulmadeaussaa",
+      "url": "https://www.tiktok.com/@yulmadeaussaa/video/7700787118611680519",
+      "video_id": "7700787118611680519",
+      "views": 102
+    },
+    {
+      "manager": "강미경",
+      "creator": "icandyvv",
+      "url": "https://www.tiktok.com/@icandyvv/video/7701208950657649940",
+      "video_id": "7701208950657649940",
+      "views": 297
+    },
+    {
+      "manager": "강미경",
       "creator": "xx.tiffanyy.x",
       "url": "https://www.tiktok.com/@xx.tiffanyy.x/video/7701780249155063054",
       "video_id": "7701780249155063054",
@@ -640,17 +605,10 @@
     },
     {
       "manager": "강미경",
-      "creator": "sushi0394847",
-      "url": "https://www.tiktok.com/@sushi0394847/video/7702247972498574612",
-      "video_id": "7702247972498574612",
-      "views": 307
-    },
-    {
-      "manager": "강미경",
-      "creator": "leilamiranda802",
-      "url": "https://www.tiktok.com/@leilamiranda802/video/7701794262932901151",
-      "video_id": "7701794262932901151",
-      "views": 645
+      "creator": "coreanafloja",
+      "url": "https://www.tiktok.com/@coreanafloja/video/7701311608445914388",
+      "video_id": "7701311608445914388",
+      "views": 11600
     },
     {
       "manager": "강미경",
@@ -661,10 +619,59 @@
     },
     {
       "manager": "강미경",
+      "creator": "yoya.ponce",
+      "url": "https://www.tiktok.com/@yoya.ponce/video/7700486781808004360",
+      "video_id": "7700486781808004360",
+      "views": 561
+    },
+    {
+      "manager": "강미경",
+      "creator": "sushi0394847",
+      "url": "https://www.tiktok.com/@sushi0394847/video/7702247972498574612",
+      "video_id": "7702247972498574612",
+      "views": 307
+    },
+    {
+      "manager": "강미경",
       "creator": "yourfairyglammama",
       "url": "https://www.tiktok.com/@yourfairyglammama/video/7701925813238664461",
       "video_id": "7701925813238664461",
       "views": 733
+    },
+    {
+      "manager": "강미경",
+      "creator": "Biancamartzz",
+      "url": "https://www.tiktok.com/@biancamartz23/video/7701940747305536786",
+      "video_id": "7701940747305536786",
+      "views": 1098
+    },
+    {
+      "manager": "강미경",
+      "creator": "an1ssa_m",
+      "url": "https://www.tiktok.com/@an1ssa_m/video/7698492438213659905",
+      "video_id": "7698492438213659905",
+      "views": 456
+    },
+    {
+      "manager": "강미경",
+      "creator": "alejaandra_delacruz3",
+      "url": "https://www.tiktok.com/@alejaandra_delacruz3/video/7699630899876416775",
+      "video_id": "7699630899876416775",
+      "views": 15700
+    },
+    {
+      "manager": "강미경",
+      "creator": "gursheensuri",
+      "url": "https://www.tiktok.com/@gursheen_ugc/video/7701557305652841749",
+      "video_id": "7701557305652841749",
+      "views": 244
+    },
+    {
+      "manager": "강미경",
+      "creator": "mseyitemi__",
+      "url": "https://www.tiktok.com/@mseyitemi__/video/7701524093119696151",
+      "video_id": "7701524093119696151",
+      "views": 330
     },
     {
       "manager": "강미경",
@@ -675,108 +682,24 @@
     },
     {
       "manager": "강미경",
-      "creator": "fariaszgabrielac",
-      "url": "https://www.tiktok.com/@fariaszgabrielac/video/7702217752693476639",
-      "video_id": "7702217752693476639",
-      "views": 187
-    },
-    {
-      "manager": "신유",
-      "creator": "miolenie",
-      "url": "https://www.tiktok.com/@miolenie/video/7691224055357230337",
-      "video_id": "7691224055357230337",
-      "views": 224
-    },
-    {
-      "manager": "강미경",
-      "creator": "ashlyejn",
-      "url": "https://www.tiktok.com/@ashlyejn/video/7702132354235649298",
-      "video_id": "7702132354235649298",
-      "views": 918
-    },
-    {
-      "manager": "강미경",
       "creator": "suruchi263",
       "url": "https://www.tiktok.com/@suruchi263/video/7701914694675696903",
       "video_id": "7701914694675696903",
       "views": 582
     },
     {
-      "manager": "신유",
-      "creator": "angelina.ugc.uk",
-      "url": "https://www.tiktok.com/@angelina.ugc.uk/video/7691370552388308246",
-      "video_id": "7691370552388308246",
-      "views": 1151
-    },
-    {
-      "manager": "신유",
-      "creator": "jovanskaroca",
-      "url": "https://www.tiktok.com/@jovanskaroca/video/7690347262832037133",
-      "video_id": "7690347262832037133",
-      "views": 388
-    },
-    {
-      "manager": "신유",
-      "creator": "malvisbri",
-      "url": "https://www.tiktok.com/@malvispbri/video/7688549634670628109",
-      "video_id": "7688549634670628109",
-      "views": 322
-    },
-    {
-      "manager": "신유",
-      "creator": "ohdearash.to",
-      "url": "https://www.tiktok.com/@ohdearash.to/video/7691488086290648338",
-      "video_id": "7691488086290648338",
-      "views": 375
-    },
-    {
-      "manager": "신유",
-      "creator": "ninni0001",
-      "url": "https://www.tiktok.com/@ninni0001/video/7691814098551573781",
-      "video_id": "7691814098551573781",
-      "views": 362
+      "manager": "강미경",
+      "creator": "fariaszgabrielac",
+      "url": "https://www.tiktok.com/@fariaszgabrielac/video/7702217752693476639",
+      "video_id": "7702217752693476639",
+      "views": 187
     },
     {
       "manager": "강미경",
-      "creator": "Biancamartzz",
-      "url": "https://www.tiktok.com/@biancamartz23/video/7701940747305536786",
-      "video_id": "7701940747305536786",
-      "views": 1094
-    },
-    {
-      "manager": "신유",
-      "creator": "rachelsn0w",
-      "url": "https://www.tiktok.com/@rachelsn0w/video/7690413604604022047",
-      "video_id": "7690413604604022047",
-      "views": 950
-    },
-    {
-      "manager": "신유",
-      "creator": "bdani_hdz",
-      "url": "https://www.tiktok.com/@bdani_hdz/video/7692911673421843733",
-      "video_id": "7692911673421843733",
-      "views": 1116
-    },
-    {
-      "manager": "신유",
-      "creator": "fanimartinezj",
-      "url": "https://www.tiktok.com/@fanimartinezj/video/7692907184916548885",
-      "video_id": "7692907184916548885",
-      "views": 347
-    },
-    {
-      "manager": "신유",
-      "creator": "isabellacondobleele_",
-      "url": "https://www.tiktok.com/@isabellacondobleele_/video/7693017992778681621",
-      "video_id": "7693017992778681621",
-      "views": 572
-    },
-    {
-      "manager": "신유",
-      "creator": "fangirl.eliza",
-      "url": "https://www.tiktok.com/@elizaleee/video/7692529889328565511",
-      "video_id": "7692529889328565511",
-      "views": 356
+      "creator": "leilamiranda802",
+      "url": "https://www.tiktok.com/@leilamiranda802/video/7701794262932901151",
+      "video_id": "7701794262932901151",
+      "views": 645
     },
     {
       "manager": "신유",
@@ -787,108 +710,59 @@
     },
     {
       "manager": "신유",
-      "creator": "valeri_ugc_canada",
-      "url": "https://www.tiktok.com/@valeri_ugc_canada/video/7693328944380087558",
-      "video_id": "7693328944380087558",
-      "views": 512
+      "creator": "ninni0001",
+      "url": "https://www.tiktok.com/@ninni0001/video/7691814098551573781",
+      "video_id": "7691814098551573781",
+      "views": 362
     },
     {
       "manager": "신유",
-      "creator": "simplyhaleya",
-      "url": "https://www.tiktok.com/@simplyhaleya/video/7693995682222312725",
-      "video_id": "7693995682222312725",
-      "views": 687
+      "creator": "rachelsn0w",
+      "url": "https://www.tiktok.com/@rachelsn0w/video/7690413604604022047",
+      "video_id": "7690413604604022047",
+      "views": 950
     },
     {
       "manager": "신유",
-      "creator": "unni_musyaju",
-      "url": "https://www.tiktok.com/@unni_musyaju/video/7694256138963012884",
-      "video_id": "7694256138963012884",
-      "views": 710
+      "creator": "miolenie",
+      "url": "https://www.tiktok.com/@miolenie/video/7691224055357230337",
+      "video_id": "7691224055357230337",
+      "views": 224
     },
     {
       "manager": "신유",
-      "creator": "binaamgai0",
-      "url": "https://www.tiktok.com/@binaamgai0/video/7693747398664932629",
-      "video_id": "7693747398664932629",
-      "views": 590
+      "creator": "jovanskaroca",
+      "url": "https://www.tiktok.com/@jovanskaroca/video/7690347262832037133",
+      "video_id": "7690347262832037133",
+      "views": 388
     },
     {
       "manager": "신유",
-      "creator": "jenny_ofca",
-      "url": "https://www.tiktok.com/@jenny_ofca/video/7694082784662654215",
-      "video_id": "7694082784662654215",
-      "views": 3569
+      "creator": "fangirl.eliza",
+      "url": "https://www.tiktok.com/@elizaleee/video/7692529889328565511",
+      "video_id": "7692529889328565511",
+      "views": 356
     },
     {
       "manager": "신유",
-      "creator": "kiminguyenn",
-      "url": "https://www.tiktok.com/@kiminguyenn/video/7693221636849290503",
-      "video_id": "7693221636849290503",
-      "views": 873
+      "creator": "angelina.ugc.uk",
+      "url": "https://www.tiktok.com/@angelina.ugc.uk/video/7691370552388308246",
+      "video_id": "7691370552388308246",
+      "views": 1151
     },
     {
       "manager": "신유",
-      "creator": "sulamist20",
-      "url": "https://www.tiktok.com/@sulamist20/video/7694497854785588487",
-      "video_id": "7694497854785588487",
-      "views": 318
+      "creator": "malvisbri",
+      "url": "https://www.tiktok.com/@malvispbri/video/7688549634670628109",
+      "video_id": "7688549634670628109",
+      "views": 322
     },
     {
       "manager": "신유",
-      "creator": "maya_lashea",
-      "url": "https://www.tiktok.com/@maya_lashea/video/7693740727020342558",
-      "video_id": "7693740727020342558",
-      "views": 278
-    },
-    {
-      "manager": "신유",
-      "creator": "skincareshay",
-      "url": "https://www.tiktok.com/@skincareshay/video/7692986377155202317",
-      "video_id": "7692986377155202317",
-      "views": 1724
-    },
-    {
-      "manager": "신유",
-      "creator": "glowconmarisol1",
-      "url": "https://www.tiktok.com/@glowconmarisol1/video/7694380693761150216",
-      "video_id": "7694380693761150216",
-      "views": 293
-    },
-    {
-      "manager": "신유",
-      "creator": "tammypandas",
-      "url": "https://www.tiktok.com/@tammypandas/video/7694497867024665886",
-      "video_id": "7694497867024665886",
-      "views": 1081
-    },
-    {
-      "manager": "신유",
-      "creator": "riyanshreya",
-      "url": "https://www.tiktok.com/@glowwithshreyah/video/7694400125602450719",
-      "video_id": "7694400125602450719",
-      "views": 222
-    },
-    {
-      "manager": "신유",
-      "creator": "paolarossio25",
-      "url": "https://www.tiktok.com/@paolarossio25/video/7695500263150325005",
-      "video_id": "7695500263150325005",
-      "views": 404
-    },
-    {
-      "manager": "신유",
-      "creator": "sandydelagarza_",
-      "url": "https://www.tiktok.com/@sandydelagarza_/video/7694795336707034374",
-      "video_id": "7694795336707034374",
-      "views": 6941
-    },
-    {
-      "manager": "신유",
-      "creator": "lorrytaitcha",
-      "url": "https://www.tiktok.com/@lorrytaitcha/video/7693925034242362645",
-      "video_id": "7693925034242362645",
-      "views": 468
+      "creator": "isabellacondobleele_",
+      "url": "https://www.tiktok.com/@isabellacondobleele_/video/7693017992778681621",
+      "video_id": "7693017992778681621",
+      "views": 572
     },
     {
       "manager": "신유",
@@ -899,52 +773,59 @@
     },
     {
       "manager": "신유",
-      "creator": "_pao.cortes",
-      "url": "https://www.tiktok.com/@_pao.cortes/video/7695930950449958164",
-      "video_id": "7695930950449958164",
-      "views": 456
+      "creator": "valeri_ugc_canada",
+      "url": "https://www.tiktok.com/@valeri_ugc_canada/video/7693328944380087558",
+      "video_id": "7693328944380087558",
+      "views": 512
     },
     {
       "manager": "신유",
-      "creator": "mrs_melanie_lim",
-      "url": "https://www.tiktok.com/@mrs_melanie_lim/video/7695824137205370130",
-      "video_id": "7695824137205370130",
-      "views": 209
+      "creator": "lorrytaitcha",
+      "url": "https://www.tiktok.com/@lorrytaitcha/video/7693925034242362645",
+      "video_id": "7693925034242362645",
+      "views": 469
     },
     {
       "manager": "신유",
-      "creator": "mommyandarman",
-      "url": "https://www.tiktok.com/@mommyandarman/video/7694728341764705544",
-      "video_id": "7694728341764705544",
-      "views": 241
+      "creator": "jenny_ofca",
+      "url": "https://www.tiktok.com/@jenny_ofca/video/7694082784662654215",
+      "video_id": "7694082784662654215",
+      "views": 3570
     },
     {
       "manager": "신유",
-      "creator": "alymdza00",
-      "url": "https://www.tiktok.com/@alymdza00/video/7695562885455449362",
-      "video_id": "7695562885455449362",
-      "views": 233
+      "creator": "unni_musyaju",
+      "url": "https://www.tiktok.com/@unni_musyaju/video/7694256138963012884",
+      "video_id": "7694256138963012884",
+      "views": 710
     },
     {
       "manager": "신유",
-      "creator": "kaatevd",
-      "url": "https://www.tiktok.com/@kaatevd/video/7695509496499539218",
-      "video_id": "7695509496499539218",
-      "views": 350
+      "creator": "bdani_hdz",
+      "url": "https://www.tiktok.com/@bdani_hdz/video/7692911673421843733",
+      "video_id": "7692911673421843733",
+      "views": 1116
     },
     {
       "manager": "신유",
-      "creator": "estherrobeauty",
-      "url": "https://www.tiktok.com/@estherrobeauty/video/7695792038129732886",
-      "video_id": "7695792038129732886",
-      "views": 194
+      "creator": "maya_lashea",
+      "url": "https://www.tiktok.com/@maya_lashea/video/7693740727020342558",
+      "video_id": "7693740727020342558",
+      "views": 278
     },
     {
       "manager": "신유",
-      "creator": "sarahxosb",
-      "url": "https://www.tiktok.com/@sarahxosb/video/7695877375015357717",
-      "video_id": "7695877375015357717",
-      "views": 1311
+      "creator": "binaamgai0",
+      "url": "https://www.tiktok.com/@binaamgai0/video/7693747398664932629",
+      "video_id": "7693747398664932629",
+      "views": 590
+    },
+    {
+      "manager": "신유",
+      "creator": "kiminguyenn",
+      "url": "https://www.tiktok.com/@kiminguyenn/video/7693221636849290503",
+      "video_id": "7693221636849290503",
+      "views": 873
     },
     {
       "manager": "신유",
@@ -955,38 +836,73 @@
     },
     {
       "manager": "신유",
-      "creator": "chloe.chiangg",
-      "url": "https://www.tiktok.com/@chloe.chiangg/video/7696303844531162375",
-      "video_id": "7696303844531162375",
-      "views": 449
+      "creator": "skincareshay",
+      "url": "https://www.tiktok.com/@skincareshay/video/7692986377155202317",
+      "video_id": "7692986377155202317",
+      "views": 1724
     },
     {
       "manager": "신유",
-      "creator": "ogecci_",
-      "url": "https://www.tiktok.com/@ogecci_/video/7696773090453392660",
-      "video_id": "7696773090453392660",
-      "views": 388
+      "creator": "ohdearash.to",
+      "url": "https://www.tiktok.com/@ohdearash.to/video/7691488086290648338",
+      "video_id": "7691488086290648338",
+      "views": 375
+    },
+    {
+      "manager": "강미경",
+      "creator": "ashlyejn",
+      "url": "https://www.tiktok.com/@ashlyejn/video/7702132354235649298",
+      "video_id": "7702132354235649298",
+      "views": 918
     },
     {
       "manager": "신유",
-      "creator": "abigailhdz19",
-      "url": "https://www.tiktok.com/@abigailhdz19/video/7695031449732353287",
-      "video_id": "7695031449732353287",
-      "views": 260
+      "creator": "fanimartinezj",
+      "url": "https://www.tiktok.com/@fanimartinezj/video/7692907184916548885",
+      "video_id": "7692907184916548885",
+      "views": 347
     },
     {
       "manager": "신유",
-      "creator": "_sassyj",
-      "url": "https://www.tiktok.com/@_sassyj/video/7696920819792022798",
-      "video_id": "7696920819792022798",
-      "views": 736
+      "creator": "sandydelagarza_",
+      "url": "https://www.tiktok.com/@sandydelagarza_/video/7694795336707034374",
+      "video_id": "7694795336707034374",
+      "views": 6941
     },
     {
       "manager": "신유",
-      "creator": "amiel023",
-      "url": "https://www.tiktok.com/@amiel023/video/7696684838794923285",
-      "video_id": "7696684838794923285",
-      "views": 341
+      "creator": "kaatevd",
+      "url": "https://www.tiktok.com/@kaatevd/video/7695509496499539218",
+      "video_id": "7695509496499539218",
+      "views": 350
+    },
+    {
+      "manager": "신유",
+      "creator": "paolarossio25",
+      "url": "https://www.tiktok.com/@paolarossio25/video/7695500263150325005",
+      "video_id": "7695500263150325005",
+      "views": 404
+    },
+    {
+      "manager": "신유",
+      "creator": "simplyhaleya",
+      "url": "https://www.tiktok.com/@simplyhaleya/video/7693995682222312725",
+      "video_id": "7693995682222312725",
+      "views": 687
+    },
+    {
+      "manager": "신유",
+      "creator": "sulamist20",
+      "url": "https://www.tiktok.com/@sulamist20/video/7694497854785588487",
+      "video_id": "7694497854785588487",
+      "views": 318
+    },
+    {
+      "manager": "신유",
+      "creator": "tammypandas",
+      "url": "https://www.tiktok.com/@tammypandas/video/7694497867024665886",
+      "video_id": "7694497867024665886",
+      "views": 1081
     },
     {
       "manager": "신유",
@@ -997,10 +913,31 @@
     },
     {
       "manager": "신유",
-      "creator": "mercedes_obeng",
-      "url": "https://www.tiktok.com/@mercedes_obeng/video/7695556930718240007",
-      "video_id": "7695556930718240007",
-      "views": 946
+      "creator": "estherrobeauty",
+      "url": "https://www.tiktok.com/@estherrobeauty/video/7695792038129732886",
+      "video_id": "7695792038129732886",
+      "views": 194
+    },
+    {
+      "manager": "신유",
+      "creator": "alymdza00",
+      "url": "https://www.tiktok.com/@alymdza00/video/7695562885455449362",
+      "video_id": "7695562885455449362",
+      "views": 233
+    },
+    {
+      "manager": "신유",
+      "creator": "mommyandarman",
+      "url": "https://www.tiktok.com/@mommyandarman/video/7694728341764705544",
+      "video_id": "7694728341764705544",
+      "views": 241
+    },
+    {
+      "manager": "신유",
+      "creator": "riyanshreya",
+      "url": "https://www.tiktok.com/@glowwithshreyah/video/7694400125602450719",
+      "video_id": "7694400125602450719",
+      "views": 222
     },
     {
       "manager": "신유",
@@ -1011,6 +948,20 @@
     },
     {
       "manager": "신유",
+      "creator": "mrs_melanie_lim",
+      "url": "https://www.tiktok.com/@mrs_melanie_lim/video/7695824137205370130",
+      "video_id": "7695824137205370130",
+      "views": 209
+    },
+    {
+      "manager": "신유",
+      "creator": "_pao.cortes",
+      "url": "https://www.tiktok.com/@_pao.cortes/video/7695930950449958164",
+      "video_id": "7695930950449958164",
+      "views": 456
+    },
+    {
+      "manager": "신유",
       "creator": "pieldemama.mx",
       "url": "https://www.tiktok.com/@pieldemama.mx/video/7696592615554174228",
       "video_id": "7696592615554174228",
@@ -1018,10 +969,31 @@
     },
     {
       "manager": "신유",
-      "creator": "aliciavillafana",
-      "url": "https://www.tiktok.com/@lifewithmeav/video/7697094975263083807",
-      "video_id": "7697094975263083807",
-      "views": 189
+      "creator": "chloe.chiangg",
+      "url": "https://www.tiktok.com/@chloe.chiangg/video/7696303844531162375",
+      "video_id": "7696303844531162375",
+      "views": 449
+    },
+    {
+      "manager": "신유",
+      "creator": "_sassyj",
+      "url": "https://www.tiktok.com/@_sassyj/video/7696920819792022798",
+      "video_id": "7696920819792022798",
+      "views": 736
+    },
+    {
+      "manager": "신유",
+      "creator": "glowconmarisol1",
+      "url": "https://www.tiktok.com/@glowconmarisol1/video/7694380693761150216",
+      "video_id": "7694380693761150216",
+      "views": 293
+    },
+    {
+      "manager": "신유",
+      "creator": "abigailhdz19",
+      "url": "https://www.tiktok.com/@abigailhdz19/video/7695031449732353287",
+      "video_id": "7695031449732353287",
+      "views": 260
     },
     {
       "manager": "신유",
@@ -1032,24 +1004,45 @@
     },
     {
       "manager": "신유",
-      "creator": "sat_o_glam",
-      "url": "https://www.tiktok.com/@sat_o_glam/video/7697099285409565968",
-      "video_id": "7697099285409565968",
-      "views": 781
+      "creator": "mercedes_obeng",
+      "url": "https://www.tiktok.com/@mercedes_obeng/video/7695556930718240007",
+      "video_id": "7695556930718240007",
+      "views": 946
     },
     {
       "manager": "신유",
-      "creator": "corybringas",
-      "url": "https://www.tiktok.com/@corybringas/video/7696023084322524437",
-      "video_id": "7696023084322524437",
-      "views": 687
+      "creator": "amiel023",
+      "url": "https://www.tiktok.com/@amiel023/video/7696684838794923285",
+      "video_id": "7696684838794923285",
+      "views": 341
     },
     {
       "manager": "신유",
-      "creator": "soylesliej",
-      "url": "https://www.tiktok.com/@soylesliej/video/7697132739929083157",
-      "video_id": "7697132739929083157",
-      "views": 429
+      "creator": "neelakshikanwarofficial",
+      "url": "https://www.tiktok.com/@neelakshikanwarofficial/video/7697017423341325588",
+      "video_id": "7697017423341325588",
+      "views": 1087
+    },
+    {
+      "manager": "신유",
+      "creator": "sarahxosb",
+      "url": "https://www.tiktok.com/@sarahxosb/video/7695877375015357717",
+      "video_id": "7695877375015357717",
+      "views": 1311
+    },
+    {
+      "manager": "신유",
+      "creator": "ogecci_",
+      "url": "https://www.tiktok.com/@ogecci_/video/7696773090453392660",
+      "video_id": "7696773090453392660",
+      "views": 388
+    },
+    {
+      "manager": "신유",
+      "creator": "victoriaamorenoo",
+      "url": "https://www.tiktok.com/@victoriaamorenoo/video/7697285311314791701",
+      "video_id": "7697285311314791701",
+      "views": 407
     },
     {
       "manager": "신유",
@@ -1067,34 +1060,6 @@
     },
     {
       "manager": "신유",
-      "creator": "neelakshikanwarofficial",
-      "url": "https://www.tiktok.com/@neelakshikanwarofficial/video/7697017423341325588",
-      "video_id": "7697017423341325588",
-      "views": 1087
-    },
-    {
-      "manager": "신유",
-      "creator": "celya.f",
-      "url": "https://www.tiktok.com/@celya.f/video/7696714428095712530",
-      "video_id": "7696714428095712530",
-      "views": 3981
-    },
-    {
-      "manager": "신유",
-      "creator": "jess_cuan",
-      "url": "https://www.tiktok.com/@jess_cuan/video/7697802257865231636",
-      "video_id": "7697802257865231636",
-      "views": 2881
-    },
-    {
-      "manager": "신유",
-      "creator": "reeegizzz",
-      "url": "https://www.tiktok.com/@reeegizzz/video/7697505103963491602",
-      "video_id": "7697505103963491602",
-      "views": 292
-    },
-    {
-      "manager": "신유",
       "creator": "militzacastillo1114",
       "url": "https://www.tiktok.com/@militzacastillo1114/video/7697470518584282386",
       "video_id": "7697470518584282386",
@@ -1109,13 +1074,6 @@
     },
     {
       "manager": "신유",
-      "creator": "victoriaamorenoo",
-      "url": "https://www.tiktok.com/@victoriaamorenoo/video/7697285311314791701",
-      "video_id": "7697285311314791701",
-      "views": 407
-    },
-    {
-      "manager": "신유",
       "creator": "mys.hel",
       "url": "https://www.tiktok.com/@mys.hel/video/7697746358438038805",
       "video_id": "7697746358438038805",
@@ -1123,17 +1081,10 @@
     },
     {
       "manager": "신유",
-      "creator": "mi.l0la",
-      "url": "https://www.tiktok.com/@mi.l0la/video/7694154149067263262",
-      "video_id": "7694154149067263262",
-      "views": 320
-    },
-    {
-      "manager": "신유",
-      "creator": "samanthademarse",
-      "url": "https://www.tiktok.com/@samanthademarse/video/7698956342324727070",
-      "video_id": "7698956342324727070",
-      "views": 1001
+      "creator": "sat_o_glam",
+      "url": "https://www.tiktok.com/@sat_o_glam/video/7697099285409565968",
+      "video_id": "7697099285409565968",
+      "views": 781
     },
     {
       "manager": "신유",
@@ -1144,17 +1095,24 @@
     },
     {
       "manager": "신유",
-      "creator": "samarsdigitaldiary",
-      "url": "https://www.tiktok.com/@samarsdigitaldiary/video/7677648651300261141",
-      "video_id": "7677648651300261141",
-      "views": 689
+      "creator": "soylesliej",
+      "url": "https://www.tiktok.com/@soylesliej/video/7697132739929083157",
+      "video_id": "7697132739929083157",
+      "views": 429
     },
     {
       "manager": "신유",
-      "creator": "ogecci_",
-      "url": "https://www.tiktok.com/@ogecci_/video/7697012058230918420",
-      "video_id": "7697012058230918420",
-      "views": 6134
+      "creator": "aliciavillafana",
+      "url": "https://www.tiktok.com/@lifewithmeav/video/7697094975263083807",
+      "video_id": "7697094975263083807",
+      "views": 190
+    },
+    {
+      "manager": "신유",
+      "creator": "kultbeauty",
+      "url": "https://www.tiktok.com/@alkimiste/video/7696708635501661448",
+      "video_id": "7696708635501661448",
+      "views": 731
     },
     {
       "manager": "신유",
@@ -1165,10 +1123,17 @@
     },
     {
       "manager": "신유",
-      "creator": "kolliesumo",
-      "url": "https://www.tiktok.com/@kolliesumo/video/7699567094194621710",
-      "video_id": "7699567094194621710",
-      "views": 296
+      "creator": "samanthademarse",
+      "url": "https://www.tiktok.com/@samanthademarse/video/7698956342324727070",
+      "video_id": "7698956342324727070",
+      "views": 1001
+    },
+    {
+      "manager": "신유",
+      "creator": "ogecci_",
+      "url": "https://www.tiktok.com/@ogecci_/video/7697012058230918420",
+      "video_id": "7697012058230918420",
+      "views": 6135
     },
     {
       "manager": "신유",
@@ -1186,59 +1151,10 @@
     },
     {
       "manager": "신유",
-      "creator": "yumemydream",
-      "url": "https://www.tiktok.com/@yumemydream/video/7699481831523044621",
-      "video_id": "7699481831523044621",
-      "views": 1334
-    },
-    {
-      "manager": "신유",
-      "creator": "perlamadriz.ugc",
-      "url": "https://www.tiktok.com/@perlamadriz.ugc/video/7699344635570785554",
-      "video_id": "7699344635570785554",
-      "views": 800
-    },
-    {
-      "manager": "신유",
-      "creator": "pamamairani",
-      "url": "https://www.tiktok.com/@pamamairani/video/7696992963125054733",
-      "video_id": "7696992963125054733",
-      "views": 1188
-    },
-    {
-      "manager": "신유",
-      "creator": "audreytirrell",
-      "url": "https://www.tiktok.com/@audgereyy/video/7699623926112046366",
-      "video_id": "7699623926112046366",
-      "views": 354
-    },
-    {
-      "manager": "신유",
-      "creator": "hanaglow777",
-      "url": "https://www.tiktok.com/@hanaglow777/video/7700791941046357269",
-      "video_id": "7700791941046357269",
-      "views": 3506
-    },
-    {
-      "manager": "신유",
-      "creator": "armellexzn",
-      "url": "https://www.tiktok.com/@armellexzn/video/7698458908846804245",
-      "video_id": "7698458908846804245",
-      "views": 2284
-    },
-    {
-      "manager": "신유",
-      "creator": "lilisweetiness",
-      "url": "https://www.tiktok.com/@lilisweetiness/video/7699301561289231623",
-      "video_id": "7699301561289231623",
-      "views": 226
-    },
-    {
-      "manager": "신유",
-      "creator": "kultbeauty",
-      "url": "https://www.tiktok.com/@alkimiste/video/7696708635501661448",
-      "video_id": "7696708635501661448",
-      "views": 731
+      "creator": "samarsdigitaldiary",
+      "url": "https://www.tiktok.com/@samarsdigitaldiary/video/7677648651300261141",
+      "video_id": "7677648651300261141",
+      "views": 689
     },
     {
       "manager": "신유",
@@ -1249,38 +1165,59 @@
     },
     {
       "manager": "신유",
-      "creator": "rosesngems",
-      "url": "https://www.tiktok.com/@rosesngems/video/7699936583977389319",
-      "video_id": "7699936583977389319",
-      "views": 308
+      "creator": "pamamairani",
+      "url": "https://www.tiktok.com/@pamamairani/video/7696992963125054733",
+      "video_id": "7696992963125054733",
+      "views": 1188
     },
     {
       "manager": "신유",
-      "creator": "monymejia_",
-      "url": "https://www.tiktok.com/@monymejia_/video/7700152097928498463",
-      "video_id": "7700152097928498463",
-      "views": 1056
+      "creator": "reeegizzz",
+      "url": "https://www.tiktok.com/@reeegizzz/video/7697505103963491602",
+      "video_id": "7697505103963491602",
+      "views": 292
     },
     {
       "manager": "신유",
-      "creator": "evsis.la",
-      "url": "https://www.tiktok.com/@evsis.la/video/7701426385901964574",
-      "video_id": "7701426385901964574",
-      "views": 187
+      "creator": "jess_cuan",
+      "url": "https://www.tiktok.com/@jess_cuan/video/7697802257865231636",
+      "video_id": "7697802257865231636",
+      "views": 2881
     },
     {
       "manager": "신유",
-      "creator": "rabinaprazapatee",
-      "url": "https://www.tiktok.com/@rabinaprazapatee/video/7700812141271551284",
-      "video_id": "7700812141271551284",
-      "views": 382
+      "creator": "mi.l0la",
+      "url": "https://www.tiktok.com/@mi.l0la/video/7694154149067263262",
+      "video_id": "7694154149067263262",
+      "views": 320
     },
     {
       "manager": "신유",
-      "creator": "chee_oma11",
-      "url": "https://www.tiktok.com/@chee_oma11/video/7701469080674422017",
-      "video_id": "7701469080674422017",
-      "views": 392
+      "creator": "corybringas",
+      "url": "https://www.tiktok.com/@corybringas/video/7696023084322524437",
+      "video_id": "7696023084322524437",
+      "views": 687
+    },
+    {
+      "manager": "신유",
+      "creator": "celya.f",
+      "url": "https://www.tiktok.com/@celya.f/video/7696714428095712530",
+      "video_id": "7696714428095712530",
+      "views": 3981
+    },
+    {
+      "manager": "신유",
+      "creator": "audreytirrell",
+      "url": "https://www.tiktok.com/@audgereyy/video/7699623926112046366",
+      "video_id": "7699623926112046366",
+      "views": 354
+    },
+    {
+      "manager": "신유",
+      "creator": "kolliesumo",
+      "url": "https://www.tiktok.com/@kolliesumo/video/7699567094194621710",
+      "video_id": "7699567094194621710",
+      "views": 296
     },
     {
       "manager": "신유",
@@ -1291,45 +1228,24 @@
     },
     {
       "manager": "신유",
-      "creator": "ivyzed",
-      "url": "https://www.tiktok.com/@ivyzed/video/7700540371943607573",
-      "video_id": "7700540371943607573",
-      "views": 567
+      "creator": "lilisweetiness",
+      "url": "https://www.tiktok.com/@lilisweetiness/video/7699301561289231623",
+      "video_id": "7699301561289231623",
+      "views": 226
     },
     {
       "manager": "신유",
-      "creator": "skinbymoi",
-      "url": "https://www.tiktok.com/@skinbymoi/video/7701400646917885204",
-      "video_id": "7701400646917885204",
-      "views": 298
+      "creator": "rabinaprazapatee",
+      "url": "https://www.tiktok.com/@rabinaprazapatee/video/7700812141271551284",
+      "video_id": "7700812141271551284",
+      "views": 382
     },
     {
       "manager": "신유",
-      "creator": "rhenkerridge",
-      "url": "https://www.tiktok.com/@rhenkerridge/video/7700665961699052821",
-      "video_id": "7700665961699052821",
-      "views": 1533
-    },
-    {
-      "manager": "신유",
-      "creator": "tesslopezz",
-      "url": "https://www.tiktok.com/@tesslopezz/video/7700805581241617671",
-      "video_id": "7700805581241617671",
-      "views": 278
-    },
-    {
-      "manager": "신유",
-      "creator": "lapetitemonclaire",
-      "url": "https://www.tiktok.com/@lapetitemonclaire/video/7701528376187637023",
-      "video_id": "7701528376187637023",
-      "views": 526
-    },
-    {
-      "manager": "신유",
-      "creator": "sidslifebelike",
-      "url": "https://www.tiktok.com/@sidslifebelike/video/7701419903794007304",
-      "video_id": "7701419903794007304",
-      "views": 2152
+      "creator": "hanaglow777",
+      "url": "https://www.tiktok.com/@hanaglow777/video/7700791941046357269",
+      "video_id": "7700791941046357269",
+      "views": 3506
     },
     {
       "manager": "신유",
@@ -1337,6 +1253,13 @@
       "url": "https://www.tiktok.com/@livingwithlily0/video/7700669238901542162",
       "video_id": "7700669238901542162",
       "views": 450
+    },
+    {
+      "manager": "신유",
+      "creator": "monymejia_",
+      "url": "https://www.tiktok.com/@monymejia_/video/7700152097928498463",
+      "video_id": "7700152097928498463",
+      "views": 1056
     },
     {
       "manager": "신유",
@@ -1354,24 +1277,45 @@
     },
     {
       "manager": "신유",
-      "creator": "glowwithkanchan",
-      "url": "https://www.tiktok.com/@glowwithkanchan/video/7701170979887729941",
-      "video_id": "7701170979887729941",
-      "views": 247
+      "creator": "armellexzn",
+      "url": "https://www.tiktok.com/@armellexzn/video/7698458908846804245",
+      "video_id": "7698458908846804245",
+      "views": 2284
     },
     {
       "manager": "신유",
-      "creator": "itsabeke",
-      "url": "https://www.tiktok.com/@itsabeke/video/7701963468294917396",
-      "video_id": "7701963468294917396",
-      "views": 516
+      "creator": "chee_oma11",
+      "url": "https://www.tiktok.com/@chee_oma11/video/7701469080674422017",
+      "video_id": "7701469080674422017",
+      "views": 393
     },
     {
       "manager": "신유",
-      "creator": "myprettyylittlediary",
-      "url": "https://www.tiktok.com/@myprettyylittlediary/video/7693956272491728158",
-      "video_id": "7693956272491728158",
-      "views": 463
+      "creator": "rosesngems",
+      "url": "https://www.tiktok.com/@rosesngems/video/7699936583977389319",
+      "video_id": "7699936583977389319",
+      "views": 308
+    },
+    {
+      "manager": "신유",
+      "creator": "sidslifebelike",
+      "url": "https://www.tiktok.com/@sidslifebelike/video/7701419903794007304",
+      "video_id": "7701419903794007304",
+      "views": 2152
+    },
+    {
+      "manager": "신유",
+      "creator": "ivyzed",
+      "url": "https://www.tiktok.com/@ivyzed/video/7700540371943607573",
+      "video_id": "7700540371943607573",
+      "views": 568
+    },
+    {
+      "manager": "신유",
+      "creator": "skinbymoi",
+      "url": "https://www.tiktok.com/@skinbymoi/video/7701400646917885204",
+      "video_id": "7701400646917885204",
+      "views": 298
     },
     {
       "manager": "신유",
@@ -1382,73 +1326,59 @@
     },
     {
       "manager": "신유",
-      "creator": "its.lesleybabe",
-      "url": "https://www.tiktok.com/@its.lesleybabe/video/7702262672766618900",
-      "video_id": "7702262672766618900",
-      "views": 504
+      "creator": "myprettyylittlediary",
+      "url": "https://www.tiktok.com/@myprettyylittlediary/video/7693956272491728158",
+      "video_id": "7693956272491728158",
+      "views": 463
     },
     {
       "manager": "신유",
-      "creator": "kada_ftc",
-      "url": "https://www.tiktok.com/@kada_ftc/video/7702151934660152577",
-      "video_id": "7702151934660152577",
-      "views": 2437
+      "creator": "perlamadriz.ugc",
+      "url": "https://www.tiktok.com/@perlamadriz.ugc/video/7699344635570785554",
+      "video_id": "7699344635570785554",
+      "views": 800
     },
     {
       "manager": "신유",
-      "creator": "glam_by_anisha",
-      "url": "https://www.tiktok.com/@glam_by_anisha/video/7699277265602891028",
-      "video_id": "7699277265602891028",
-      "views": 281
+      "creator": "glowwithkanchan",
+      "url": "https://www.tiktok.com/@glowwithkanchan/video/7701170979887729941",
+      "video_id": "7701170979887729941",
+      "views": 247
     },
     {
       "manager": "신유",
-      "creator": "fallenstar.66",
-      "url": "https://www.tiktok.com/@fallenstar.66/video/7702246739876580616",
-      "video_id": "7702246739876580616",
-      "views": 261
+      "creator": "evsis.la",
+      "url": "https://www.tiktok.com/@evsis.la/video/7701426385901964574",
+      "video_id": "7701426385901964574",
+      "views": 187
     },
     {
       "manager": "신유",
-      "creator": "itzelgrey97",
-      "url": "https://www.tiktok.com/@itzelgrey97/video/7702259108157869332",
-      "video_id": "7702259108157869332",
-      "views": 290
+      "creator": "rhenkerridge",
+      "url": "https://www.tiktok.com/@rhenkerridge/video/7700665961699052821",
+      "video_id": "7700665961699052821",
+      "views": 1533
     },
     {
       "manager": "신유",
-      "creator": "vibeszwmai",
-      "url": "https://www.tiktok.com/@vibeszwmai/video/7701821359269104926",
-      "video_id": "7701821359269104926",
-      "views": 1495
+      "creator": "yumemydream",
+      "url": "https://www.tiktok.com/@yumemydream/video/7699481831523044621",
+      "video_id": "7699481831523044621",
+      "views": 1334
     },
     {
       "manager": "신유",
-      "creator": "makeupbylabrini",
-      "url": "https://www.tiktok.com/@makeupbylabrini/video/7702071519127817492",
-      "video_id": "7702071519127817492",
-      "views": 350
+      "creator": "tesslopezz",
+      "url": "https://www.tiktok.com/@tesslopezz/video/7700805581241617671",
+      "video_id": "7700805581241617671",
+      "views": 278
     },
     {
-      "manager": "유연식",
-      "creator": "roxynaistus51",
-      "url": "https://www.tiktok.com/@roxynaistus51/video/7691486756725689620",
-      "video_id": "7691486756725689620",
-      "views": 133
-    },
-    {
-      "manager": "유연식",
-      "creator": "softglowjesss",
-      "url": "https://www.tiktok.com/@softglowjess/video/7691457866598829325",
-      "video_id": "7691457866598829325",
-      "views": 742
-    },
-    {
-      "manager": "유연식",
-      "creator": "barrett9216",
-      "url": "https://www.tiktok.com/@barrett9216/video/7691448804754590996",
-      "video_id": "7691448804754590996",
-      "views": 373
+      "manager": "신유",
+      "creator": "lapetitemonclaire",
+      "url": "https://www.tiktok.com/@lapetitemonclaire/video/7701528376187637023",
+      "video_id": "7701528376187637023",
+      "views": 526
     },
     {
       "manager": "신유",
@@ -1459,10 +1389,52 @@
     },
     {
       "manager": "신유",
+      "creator": "makeupbylabrini",
+      "url": "https://www.tiktok.com/@makeupbylabrini/video/7702071519127817492",
+      "video_id": "7702071519127817492",
+      "views": 350
+    },
+    {
+      "manager": "신유",
       "creator": "jerni.mom.ugc",
       "url": "https://www.tiktok.com/@jerni.mom.ugc/video/7698375973850418445",
       "video_id": "7698375973850418445",
       "views": 736
+    },
+    {
+      "manager": "신유",
+      "creator": "glam_by_anisha",
+      "url": "https://www.tiktok.com/@glam_by_anisha/video/7699277265602891028",
+      "video_id": "7699277265602891028",
+      "views": 281
+    },
+    {
+      "manager": "신유",
+      "creator": "its.lesleybabe",
+      "url": "https://www.tiktok.com/@its.lesleybabe/video/7702262672766618900",
+      "video_id": "7702262672766618900",
+      "views": 505
+    },
+    {
+      "manager": "유연식",
+      "creator": "softglowjesss",
+      "url": "https://www.tiktok.com/@softglowjess/video/7691457866598829325",
+      "video_id": "7691457866598829325",
+      "views": 742
+    },
+    {
+      "manager": "신유",
+      "creator": "kada_ftc",
+      "url": "https://www.tiktok.com/@kada_ftc/video/7702151934660152577",
+      "video_id": "7702151934660152577",
+      "views": 2437
+    },
+    {
+      "manager": "신유",
+      "creator": "vibeszwmai",
+      "url": "https://www.tiktok.com/@vibeszwmai/video/7701821359269104926",
+      "video_id": "7701821359269104926",
+      "views": 1495
     },
     {
       "manager": "유연식",
@@ -1473,6 +1445,13 @@
     },
     {
       "manager": "유연식",
+      "creator": "oluwadamilolaao",
+      "url": "https://www.tiktok.com/@oluwadamilolaao/video/7691753481849326856",
+      "video_id": "7691753481849326856",
+      "views": 223
+    },
+    {
+      "manager": "유연식",
       "creator": "muabybre",
       "url": "https://www.tiktok.com/@muabybre/video/7691893649646325023",
       "video_id": "7691893649646325023",
@@ -1480,10 +1459,17 @@
     },
     {
       "manager": "유연식",
-      "creator": "oluwadamilolaao",
-      "url": "https://www.tiktok.com/@oluwadamilolaao/video/7691753481849326856",
-      "video_id": "7691753481849326856",
-      "views": 222
+      "creator": "barrett9216",
+      "url": "https://www.tiktok.com/@barrett9216/video/7691448804754590996",
+      "video_id": "7691448804754590996",
+      "views": 373
+    },
+    {
+      "manager": "유연식",
+      "creator": "sofiiaskincare",
+      "url": "https://www.tiktok.com/@sofiiaskincare/video/7692858259438456072",
+      "video_id": "7692858259438456072",
+      "views": 275
     },
     {
       "manager": "유연식",
@@ -1491,6 +1477,20 @@
       "url": "https://www.tiktok.com/@nouf2192/video/7692233422265175314",
       "video_id": "7692233422265175314",
       "views": 721
+    },
+    {
+      "manager": "유연식",
+      "creator": "skincareecastt",
+      "url": "https://www.tiktok.com/@skincareecastt/video/7692895487292181778",
+      "video_id": "7692895487292181778",
+      "views": 1203
+    },
+    {
+      "manager": "유연식",
+      "creator": "anne_shrestha21",
+      "url": "https://www.tiktok.com/@anne_shrestha21/video/7692933380832234759",
+      "video_id": "7692933380832234759",
+      "views": 409
     },
     {
       "manager": "유연식",
@@ -1508,157 +1508,17 @@
     },
     {
       "manager": "유연식",
-      "creator": "sofiiaskincare",
-      "url": "https://www.tiktok.com/@sofiiaskincare/video/7692858259438456072",
-      "video_id": "7692858259438456072",
-      "views": 275
-    },
-    {
-      "manager": "유연식",
-      "creator": "marifer_alvarad0",
-      "url": "https://www.tiktok.com/@marifer_alvarad0/video/7692602891793648916",
-      "video_id": "7692602891793648916",
-      "views": 410
-    },
-    {
-      "manager": "유연식",
-      "creator": "skincareecastt",
-      "url": "https://www.tiktok.com/@skincareecastt/video/7692895487292181778",
-      "video_id": "7692895487292181778",
-      "views": 1203
-    },
-    {
-      "manager": "유연식",
       "creator": "classyraineofficial",
       "url": "https://www.tiktok.com/@classyraineofficial/video/7692988541705456948",
       "video_id": "7692988541705456948",
       "views": 150
     },
     {
-      "manager": "유연식",
-      "creator": "emy_cm_",
-      "url": "https://www.tiktok.com/@emy_cm_/video/7693343999121247508",
-      "video_id": "7693343999121247508",
-      "views": 20200
-    },
-    {
-      "manager": "유연식",
-      "creator": "marianach33",
-      "url": "https://www.tiktok.com/@marianach33/video/7693248368792915220",
-      "video_id": "7693248368792915220",
-      "views": 435
-    },
-    {
-      "manager": "유연식",
-      "creator": "jaspreetwaraich1",
-      "url": "https://www.tiktok.com/@jaspreetwaraich1/video/7693287458833829141",
-      "video_id": "7693287458833829141",
-      "views": 502
-    },
-    {
-      "manager": "유연식",
-      "creator": "jash3604",
-      "url": "https://www.tiktok.com/@jash3604/video/7693003198541434133",
-      "video_id": "7693003198541434133",
-      "views": 425
-    },
-    {
-      "manager": "유연식",
-      "creator": "anne_shrestha21",
-      "url": "https://www.tiktok.com/@anne_shrestha21/video/7692933380832234759",
-      "video_id": "7692933380832234759",
-      "views": 409
-    },
-    {
-      "manager": "유연식",
-      "creator": "xyanilex",
-      "url": "https://www.tiktok.com/@xyanilex/video/7693783140418063629",
-      "video_id": "7693783140418063629",
-      "views": 289
-    },
-    {
-      "manager": "유연식",
-      "creator": "britishgirlcanadianworld",
-      "url": "https://www.tiktok.com/@britishgirlcanadianworld/video/7693735041305808136",
-      "video_id": "7693735041305808136",
-      "views": 228
-    },
-    {
-      "manager": "유연식",
-      "creator": "carechokchok",
-      "url": "https://www.tiktok.com/@carechokchok/video/7693404450668465428",
-      "video_id": "7693404450668465428",
-      "views": 453
-    },
-    {
-      "manager": "유연식",
-      "creator": "dar_ari0",
-      "url": "https://www.tiktok.com/@dar_ari0/video/7693712027935657217",
-      "video_id": "7693712027935657217",
-      "views": 536
-    },
-    {
-      "manager": "유연식",
-      "creator": "amirabeautycanada",
-      "url": "https://www.tiktok.com/@amirabeautycanada/video/7692482097151233298",
-      "video_id": "7692482097151233298",
-      "views": 1304
-    },
-    {
-      "manager": "유연식",
-      "creator": "agmrna",
-      "url": "https://www.tiktok.com/@agmrna/video/7693736001621085460",
-      "video_id": "7693736001621085460",
-      "views": 275
-    },
-    {
-      "manager": "유연식",
-      "creator": "niya.journal",
-      "url": "https://www.tiktok.com/@niya.journal/video/7693793922442693908",
-      "video_id": "7693793922442693908",
-      "views": 231
-    },
-    {
-      "manager": "유연식",
-      "creator": "vivianaguerrero181",
-      "url": "https://www.tiktok.com/@vivianaguerrero181/video/7694060573239119156",
-      "video_id": "7694060573239119156",
-      "views": 446
-    },
-    {
-      "manager": "유연식",
-      "creator": "deeedooooooo",
-      "url": "https://www.tiktok.com/@deeedooooooo/video/7694104875042442516",
-      "video_id": "7694104875042442516",
-      "views": 281
-    },
-    {
-      "manager": "유연식",
-      "creator": "angeldhakal2",
-      "url": "https://www.tiktok.com/@angeldhakal2/video/7693967640230038805",
-      "video_id": "7693967640230038805",
-      "views": 354
-    },
-    {
-      "manager": "유연식",
-      "creator": "francesstorres",
-      "url": "https://www.tiktok.com/@francesstorres/video/7694061516861017365",
-      "video_id": "7694061516861017365",
-      "views": 379
-    },
-    {
-      "manager": "유연식",
-      "creator": "reviewsby.mrso",
-      "url": "https://www.tiktok.com/@reviewsby.mrso/video/7693281597809790228",
-      "video_id": "7693281597809790228",
-      "views": 247
-    },
-    {
-      "manager": "유연식",
-      "creator": "vonstrada",
-      "url": "https://www.tiktok.com/@vonstrada/video/7693696325203807509",
-      "video_id": "7693696325203807509",
-      "views": 1228
+      "manager": "신유",
+      "creator": "itsabeke",
+      "url": "https://www.tiktok.com/@itsabeke/video/7701963468294917396",
+      "video_id": "7701963468294917396",
+      "views": 516
     },
     {
       "manager": "유연식",
@@ -1669,6 +1529,83 @@
     },
     {
       "manager": "유연식",
+      "creator": "marifer_alvarad0",
+      "url": "https://www.tiktok.com/@marifer_alvarad0/video/7692602891793648916",
+      "video_id": "7692602891793648916",
+      "views": 410
+    },
+    {
+      "manager": "신유",
+      "creator": "fallenstar.66",
+      "url": "https://www.tiktok.com/@fallenstar.66/video/7702246739876580616",
+      "video_id": "7702246739876580616",
+      "views": 261
+    },
+    {
+      "manager": "신유",
+      "creator": "itzelgrey97",
+      "url": "https://www.tiktok.com/@itzelgrey97/video/7702259108157869332",
+      "video_id": "7702259108157869332",
+      "views": 290
+    },
+    {
+      "manager": "유연식",
+      "creator": "roxynaistus51",
+      "url": "https://www.tiktok.com/@roxynaistus51/video/7691486756725689620",
+      "video_id": "7691486756725689620",
+      "views": 133
+    },
+    {
+      "manager": "유연식",
+      "creator": "marianach33",
+      "url": "https://www.tiktok.com/@marianach33/video/7693248368792915220",
+      "video_id": "7693248368792915220",
+      "views": 435
+    },
+    {
+      "manager": "유연식",
+      "creator": "carechokchok",
+      "url": "https://www.tiktok.com/@carechokchok/video/7693404450668465428",
+      "video_id": "7693404450668465428",
+      "views": 453
+    },
+    {
+      "manager": "유연식",
+      "creator": "reviewsby.mrso",
+      "url": "https://www.tiktok.com/@reviewsby.mrso/video/7693281597809790228",
+      "video_id": "7693281597809790228",
+      "views": 247
+    },
+    {
+      "manager": "유연식",
+      "creator": "britishgirlcanadianworld",
+      "url": "https://www.tiktok.com/@britishgirlcanadianworld/video/7693735041305808136",
+      "video_id": "7693735041305808136",
+      "views": 228
+    },
+    {
+      "manager": "유연식",
+      "creator": "jash3604",
+      "url": "https://www.tiktok.com/@jash3604/video/7693003198541434133",
+      "video_id": "7693003198541434133",
+      "views": 425
+    },
+    {
+      "manager": "유연식",
+      "creator": "emy_cm_",
+      "url": "https://www.tiktok.com/@emy_cm_/video/7693343999121247508",
+      "video_id": "7693343999121247508",
+      "views": 20200
+    },
+    {
+      "manager": "유연식",
+      "creator": "dar_ari0",
+      "url": "https://www.tiktok.com/@dar_ari0/video/7693712027935657217",
+      "video_id": "7693712027935657217",
+      "views": 536
+    },
+    {
+      "manager": "유연식",
       "creator": "ghiesel.ugc",
       "url": "https://www.tiktok.com/@ghiesel.ugc/video/7694038482985176327",
       "video_id": "7694038482985176327",
@@ -1676,17 +1613,52 @@
     },
     {
       "manager": "유연식",
-      "creator": "shelovesherglow",
-      "url": "https://www.tiktok.com/@shelovesherglow/video/7695773628285160711",
-      "video_id": "7695773628285160711",
-      "views": 195
+      "creator": "francesstorres",
+      "url": "https://www.tiktok.com/@francesstorres/video/7694061516861017365",
+      "video_id": "7694061516861017365",
+      "views": 379
     },
     {
       "manager": "유연식",
-      "creator": "keni_esmeralda",
-      "url": "https://www.tiktok.com/@keni_esmeralda/video/7695892699173391637",
-      "video_id": "7695892699173391637",
-      "views": 197
+      "creator": "agmrna",
+      "url": "https://www.tiktok.com/@agmrna/video/7693736001621085460",
+      "video_id": "7693736001621085460",
+      "views": 275
+    },
+    {
+      "manager": "유연식",
+      "creator": "amirabeautycanada",
+      "url": "https://www.tiktok.com/@amirabeautycanada/video/7692482097151233298",
+      "video_id": "7692482097151233298",
+      "views": 1304
+    },
+    {
+      "manager": "유연식",
+      "creator": "jaspreetwaraich1",
+      "url": "https://www.tiktok.com/@jaspreetwaraich1/video/7693287458833829141",
+      "video_id": "7693287458833829141",
+      "views": 502
+    },
+    {
+      "manager": "유연식",
+      "creator": "vonstrada",
+      "url": "https://www.tiktok.com/@vonstrada/video/7693696325203807509",
+      "video_id": "7693696325203807509",
+      "views": 1228
+    },
+    {
+      "manager": "유연식",
+      "creator": "vivianaguerrero181",
+      "url": "https://www.tiktok.com/@vivianaguerrero181/video/7694060573239119156",
+      "video_id": "7694060573239119156",
+      "views": 446
+    },
+    {
+      "manager": "유연식",
+      "creator": "niya.journal",
+      "url": "https://www.tiktok.com/@niya.journal/video/7693793922442693908",
+      "video_id": "7693793922442693908",
+      "views": 231
     },
     {
       "manager": "유연식",
@@ -1697,24 +1669,10 @@
     },
     {
       "manager": "유연식",
-      "creator": "tere_bave",
-      "url": "https://www.tiktok.com/@tere_bave/video/7695246830908476693",
-      "video_id": "7695246830908476693",
-      "views": 2897
-    },
-    {
-      "manager": "유연식",
-      "creator": "ugckhush",
-      "url": "https://www.tiktok.com/@ugckhush/video/7694080436082838804",
-      "video_id": "7694080436082838804",
-      "views": 200
-    },
-    {
-      "manager": "유연식",
-      "creator": "withjana22",
-      "url": "https://www.tiktok.com/@withjana22/video/7695076814691077384",
-      "video_id": "7695076814691077384",
-      "views": 1144
+      "creator": "melsmg_",
+      "url": "https://www.tiktok.com/@melsmg_/video/7695964385793035527",
+      "video_id": "7695964385793035527",
+      "views": 343
     },
     {
       "manager": "유연식",
@@ -1725,38 +1683,59 @@
     },
     {
       "manager": "유연식",
-      "creator": "stephyyus",
-      "url": "https://www.tiktok.com/@stephyyus/video/7686536387205565709",
-      "video_id": "7686536387205565709",
-      "views": 740
+      "creator": "ugckhush",
+      "url": "https://www.tiktok.com/@ugckhush/video/7694080436082838804",
+      "video_id": "7694080436082838804",
+      "views": 200
     },
     {
       "manager": "유연식",
-      "creator": "ugcbyhsu",
-      "url": "https://www.tiktok.com/@ugcbyhsu/video/7693654646258289950",
-      "video_id": "7693654646258289950",
-      "views": 181
+      "creator": "deeedooooooo",
+      "url": "https://www.tiktok.com/@deeedooooooo/video/7694104875042442516",
+      "video_id": "7694104875042442516",
+      "views": 281
     },
     {
       "manager": "유연식",
-      "creator": "melsmg_",
-      "url": "https://www.tiktok.com/@melsmg_/video/7695964385793035527",
-      "video_id": "7695964385793035527",
-      "views": 343
+      "creator": "tere_bave",
+      "url": "https://www.tiktok.com/@tere_bave/video/7695246830908476693",
+      "video_id": "7695246830908476693",
+      "views": 2897
     },
     {
       "manager": "유연식",
-      "creator": "lewis_irina",
-      "url": "https://www.tiktok.com/@lewis_irina/video/7695590404426681614",
-      "video_id": "7695590404426681614",
-      "views": 91
+      "creator": "shelovesherglow",
+      "url": "https://www.tiktok.com/@shelovesherglow/video/7695773628285160711",
+      "video_id": "7695773628285160711",
+      "views": 195
     },
     {
       "manager": "유연식",
-      "creator": "zona_fangirl",
-      "url": "https://www.tiktok.com/@zona_fangirl/video/7696252634042223880",
-      "video_id": "7696252634042223880",
-      "views": 571
+      "creator": "withjana22",
+      "url": "https://www.tiktok.com/@withjana22/video/7695076814691077384",
+      "video_id": "7695076814691077384",
+      "views": 1144
+    },
+    {
+      "manager": "유연식",
+      "creator": "angeldhakal2",
+      "url": "https://www.tiktok.com/@angeldhakal2/video/7693967640230038805",
+      "video_id": "7693967640230038805",
+      "views": 354
+    },
+    {
+      "manager": "유연식",
+      "creator": "xyanilex",
+      "url": "https://www.tiktok.com/@xyanilex/video/7693783140418063629",
+      "video_id": "7693783140418063629",
+      "views": 289
+    },
+    {
+      "manager": "유연식",
+      "creator": "keni_esmeralda",
+      "url": "https://www.tiktok.com/@keni_esmeralda/video/7695892699173391637",
+      "video_id": "7695892699173391637",
+      "views": 197
     },
     {
       "manager": "유연식",
@@ -1767,38 +1746,10 @@
     },
     {
       "manager": "유연식",
-      "creator": "shalavaebeauty_",
-      "url": "https://www.tiktok.com/@shalavaebeauty/video/7697023972516302094",
-      "video_id": "7697023972516302094",
-      "views": 1024
-    },
-    {
-      "manager": "유연식",
-      "creator": "candyolmos",
-      "url": "https://www.tiktok.com/@candyolmos/video/7696013208603118869",
-      "video_id": "7696013208603118869",
-      "views": 977
-    },
-    {
-      "manager": "유연식",
-      "creator": "kaliyahgrant",
-      "url": "https://www.tiktok.com/@kaliyahgrantt/video/7697008177983835413",
-      "video_id": "7697008177983835413",
-      "views": 377
-    },
-    {
-      "manager": "유연식",
-      "creator": "hihali030",
-      "url": "https://www.tiktok.com/@hihali030/video/7697123099753336094",
-      "video_id": "7697123099753336094",
-      "views": 407
-    },
-    {
-      "manager": "유연식",
-      "creator": "nynsuu127",
-      "url": "https://www.tiktok.com/@nynsuu127/video/7693951324735425822",
-      "video_id": "7693951324735425822",
-      "views": 486
+      "creator": "zona_fangirl",
+      "url": "https://www.tiktok.com/@zona_fangirl/video/7696252634042223880",
+      "video_id": "7696252634042223880",
+      "views": 571
     },
     {
       "manager": "유연식",
@@ -1809,17 +1760,52 @@
     },
     {
       "manager": "유연식",
-      "creator": "kenia.zvc",
-      "url": "https://www.tiktok.com/@kenia.zvc/video/7697333343796415764",
-      "video_id": "7697333343796415764",
-      "views": 232
+      "creator": "kaliyahgrant",
+      "url": "https://www.tiktok.com/@kaliyahgrantt/video/7697008177983835413",
+      "video_id": "7697008177983835413",
+      "views": 377
     },
     {
       "manager": "유연식",
-      "creator": "lupitaruiz1221",
-      "url": "https://www.tiktok.com/@lupitaruiz1221/video/7696694814745595188",
-      "video_id": "7696694814745595188",
-      "views": 358
+      "creator": "ugcbyhsu",
+      "url": "https://www.tiktok.com/@ugcbyhsu/video/7693654646258289950",
+      "video_id": "7693654646258289950",
+      "views": 181
+    },
+    {
+      "manager": "유연식",
+      "creator": "lewis_irina",
+      "url": "https://www.tiktok.com/@lewis_irina/video/7695590404426681614",
+      "video_id": "7695590404426681614",
+      "views": 91
+    },
+    {
+      "manager": "유연식",
+      "creator": "stephyyus",
+      "url": "https://www.tiktok.com/@stephyyus/video/7686536387205565709",
+      "video_id": "7686536387205565709",
+      "views": 740
+    },
+    {
+      "manager": "유연식",
+      "creator": "rubieandfam",
+      "url": "https://www.tiktok.com/@rubieandfam/video/7697434573549948173",
+      "video_id": "7697434573549948173",
+      "views": 490
+    },
+    {
+      "manager": "유연식",
+      "creator": "kkay_ren",
+      "url": "https://www.tiktok.com/@kkay_ren/video/7697118894225394957",
+      "video_id": "7697118894225394957",
+      "views": 630
+    },
+    {
+      "manager": "유연식",
+      "creator": "nynsuu127",
+      "url": "https://www.tiktok.com/@nynsuu127/video/7693951324735425822",
+      "video_id": "7693951324735425822",
+      "views": 486
     },
     {
       "manager": "유연식",
@@ -1830,17 +1816,24 @@
     },
     {
       "manager": "유연식",
-      "creator": "loryooh",
-      "url": "https://www.tiktok.com/@loryooh/video/7697532770406518024",
-      "video_id": "7697532770406518024",
-      "views": 368
-    },
-    {
-      "manager": "유연식",
       "creator": "hannieprieto0721",
       "url": "https://www.tiktok.com/@hannieprieto0721/video/7697374198003535120",
       "video_id": "7697374198003535120",
       "views": 836
+    },
+    {
+      "manager": "유연식",
+      "creator": "kenia.zvc",
+      "url": "https://www.tiktok.com/@kenia.zvc/video/7697333343796415764",
+      "video_id": "7697333343796415764",
+      "views": 232
+    },
+    {
+      "manager": "유연식",
+      "creator": "hihali030",
+      "url": "https://www.tiktok.com/@hihali030/video/7697123099753336094",
+      "video_id": "7697123099753336094",
+      "views": 407
     },
     {
       "manager": "유연식",
@@ -1858,20 +1851,6 @@
     },
     {
       "manager": "유연식",
-      "creator": "oatofsilence.",
-      "url": "https://www.tiktok.com/@oatofsilence/video/7697892410587745554",
-      "video_id": "7697892410587745554",
-      "views": 503
-    },
-    {
-      "manager": "유연식",
-      "creator": "kkay_ren",
-      "url": "https://www.tiktok.com/@kkay_ren/video/7697118894225394957",
-      "video_id": "7697118894225394957",
-      "views": 630
-    },
-    {
-      "manager": "유연식",
       "creator": "lachamita1",
       "url": "https://www.tiktok.com/@lachamita1/video/7697457924733537566",
       "video_id": "7697457924733537566",
@@ -1879,45 +1858,38 @@
     },
     {
       "manager": "유연식",
-      "creator": "monsemac90",
-      "url": "https://www.tiktok.com/@monsemac90/video/7697397665142721823",
-      "video_id": "7697397665142721823",
-      "views": 316
+      "creator": "loryooh",
+      "url": "https://www.tiktok.com/@loryooh/video/7697532770406518024",
+      "video_id": "7697532770406518024",
+      "views": 368
     },
     {
       "manager": "유연식",
-      "creator": "paulinastyle2",
-      "url": "https://www.tiktok.com/@paulinastyle2/video/7698618922014117140",
-      "video_id": "7698618922014117140",
-      "views": 317
+      "creator": "candyolmos",
+      "url": "https://www.tiktok.com/@candyolmos/video/7696013208603118869",
+      "video_id": "7696013208603118869",
+      "views": 977
     },
     {
       "manager": "유연식",
-      "creator": "parveetdoad",
-      "url": "https://www.tiktok.com/@parveetdoad/video/7698046894030785800",
-      "video_id": "7698046894030785800",
-      "views": 21600
+      "creator": "shalavaebeauty_",
+      "url": "https://www.tiktok.com/@shalavaebeauty/video/7697023972516302094",
+      "video_id": "7697023972516302094",
+      "views": 1024
     },
     {
       "manager": "유연식",
-      "creator": "jennycorza",
-      "url": "https://www.tiktok.com/@jennycorza/video/7695931849767390471",
-      "video_id": "7695931849767390471",
-      "views": 58
+      "creator": "oatofsilence.",
+      "url": "https://www.tiktok.com/@oatofsilence/video/7697892410587745554",
+      "video_id": "7697892410587745554",
+      "views": 503
     },
     {
       "manager": "유연식",
-      "creator": "rsguesss",
-      "url": "https://www.tiktok.com/@rsguesss/video/7698421316260941108",
-      "video_id": "7698421316260941108",
-      "views": 431
-    },
-    {
-      "manager": "유연식",
-      "creator": "lifestyle20m",
-      "url": "https://www.tiktok.com/@lifestyle20m/video/7698918169208950037",
-      "video_id": "7698918169208950037",
-      "views": 3642
+      "creator": "lupitaruiz1221",
+      "url": "https://www.tiktok.com/@lupitaruiz1221/video/7696694814745595188",
+      "video_id": "7696694814745595188",
+      "views": 358
     },
     {
       "manager": "유연식",
@@ -1928,17 +1900,17 @@
     },
     {
       "manager": "유연식",
-      "creator": "rubieandfam",
-      "url": "https://www.tiktok.com/@rubieandfam/video/7697434573549948173",
-      "video_id": "7697434573549948173",
-      "views": 490
+      "creator": "rsguesss",
+      "url": "https://www.tiktok.com/@rsguesss/video/7698421316260941108",
+      "video_id": "7698421316260941108",
+      "views": 431
     },
     {
       "manager": "유연식",
-      "creator": "akira_yayoi",
-      "url": "https://www.tiktok.com/@akira_yayoi/video/7698613260710432007",
-      "video_id": "7698613260710432007",
-      "views": 225
+      "creator": "sombily0",
+      "url": "https://www.tiktok.com/@sombily0/video/7696623122274962709",
+      "video_id": "7696623122274962709",
+      "views": 8797
     },
     {
       "manager": "유연식",
@@ -1949,45 +1921,10 @@
     },
     {
       "manager": "유연식",
-      "creator": "sombily0",
-      "url": "https://www.tiktok.com/@sombily0/video/7696623122274962709",
-      "video_id": "7696623122274962709",
-      "views": 8795
-    },
-    {
-      "manager": "유연식",
-      "creator": "soyerikaperez",
-      "url": "https://www.tiktok.com/@soyerikaperez/video/7698943386245500190",
-      "video_id": "7698943386245500190",
-      "views": 552
-    },
-    {
-      "manager": "유연식",
-      "creator": "simranbabbu2",
-      "url": "https://www.tiktok.com/@simranbabbu2/video/7699256711504432405",
-      "video_id": "7699256711504432405",
-      "views": 305
-    },
-    {
-      "manager": "유연식",
-      "creator": "itsnotahn",
-      "url": "https://www.tiktok.com/@itsnotahn/video/7694174285849562376",
-      "video_id": "7694174285849562376",
-      "views": 575
-    },
-    {
-      "manager": "유연식",
-      "creator": "petalandphrase",
-      "url": "https://www.tiktok.com/@petalandphrase/video/7699408984964435231",
-      "video_id": "7699408984964435231",
-      "views": 996
-    },
-    {
-      "manager": "유연식",
-      "creator": "lu.comkjuj34",
-      "url": "https://www.tiktok.com/@lu.comkjuj34/video/7697910529272106261",
-      "video_id": "7697910529272106261",
-      "views": 226
+      "creator": "akira_yayoi",
+      "url": "https://www.tiktok.com/@akira_yayoi/video/7698613260710432007",
+      "video_id": "7698613260710432007",
+      "views": 225
     },
     {
       "manager": "유연식",
@@ -1998,10 +1935,24 @@
     },
     {
       "manager": "유연식",
-      "creator": "z3r0fac3",
-      "url": "https://www.tiktok.com/@z3r0fac3/video/7699486062913113374",
-      "video_id": "7699486062913113374",
-      "views": 135
+      "creator": "lu.comkjuj34",
+      "url": "https://www.tiktok.com/@lu.comkjuj34/video/7697910529272106261",
+      "video_id": "7697910529272106261",
+      "views": 226
+    },
+    {
+      "manager": "유연식",
+      "creator": "itsnotahn",
+      "url": "https://www.tiktok.com/@itsnotahn/video/7694174285849562376",
+      "video_id": "7694174285849562376",
+      "views": 575
+    },
+    {
+      "manager": "유연식",
+      "creator": "simranbabbu2",
+      "url": "https://www.tiktok.com/@simranbabbu2/video/7699256711504432405",
+      "video_id": "7699256711504432405",
+      "views": 305
     },
     {
       "manager": "유연식",
@@ -2012,6 +1963,13 @@
     },
     {
       "manager": "유연식",
+      "creator": "carmenstinson_",
+      "url": "https://www.tiktok.com/@carmenstinson_/video/7698612661797358878",
+      "video_id": "7698612661797358878",
+      "views": 337
+    },
+    {
+      "manager": "유연식",
       "creator": "sbrrinaxo",
       "url": "https://www.tiktok.com/@sbrrinaxo/video/7699224515972254997",
       "video_id": "7699224515972254997",
@@ -2019,10 +1977,10 @@
     },
     {
       "manager": "유연식",
-      "creator": "spglam_",
-      "url": "https://www.tiktok.com/@spglam_/video/7700404296197754132",
-      "video_id": "7700404296197754132",
-      "views": 4152
+      "creator": "lifestyle20m",
+      "url": "https://www.tiktok.com/@lifestyle20m/video/7698918169208950037",
+      "video_id": "7698918169208950037",
+      "views": 3644
     },
     {
       "manager": "유연식",
@@ -2033,59 +1991,10 @@
     },
     {
       "manager": "유연식",
-      "creator": "imanedel_",
-      "url": "https://www.tiktok.com/@imanedel_/video/7699564514102070535",
-      "video_id": "7699564514102070535",
-      "views": 2158
-    },
-    {
-      "manager": "유연식",
-      "creator": "liizzified",
-      "url": "https://www.tiktok.com/@liizzified/video/7700396052486049031",
-      "video_id": "7700396052486049031",
-      "views": 1091
-    },
-    {
-      "manager": "유연식",
-      "creator": "glowwithasmita8",
-      "url": "https://www.tiktok.com/@glowwithasmita8/video/7692209612199709972",
-      "video_id": "7692209612199709972",
-      "views": 450
-    },
-    {
-      "manager": "유연식",
-      "creator": "keiisand_",
-      "url": "https://www.tiktok.com/@keiisand_/video/7697100524981669127",
-      "video_id": "7697100524981669127",
-      "views": 284
-    },
-    {
-      "manager": "유연식",
-      "creator": "nataliabarlet",
-      "url": "https://www.tiktok.com/@nataliabarlet/video/7699238110097362184",
-      "video_id": "7699238110097362184",
-      "views": 2508
-    },
-    {
-      "manager": "유연식",
-      "creator": "carmenstinson_",
-      "url": "https://www.tiktok.com/@carmenstinson_/video/7698612661797358878",
-      "video_id": "7698612661797358878",
-      "views": 337
-    },
-    {
-      "manager": "유연식",
-      "creator": "goddesstisha3",
-      "url": "https://www.tiktok.com/@goddesstisha3/video/7700080243414961439",
-      "video_id": "7700080243414961439",
-      "views": 117
-    },
-    {
-      "manager": "유연식",
-      "creator": "ailene00007",
-      "url": "https://www.tiktok.com/@ailene00007/video/7700528231459441951",
-      "video_id": "7700528231459441951",
-      "views": 141
+      "creator": "jennycorza",
+      "url": "https://www.tiktok.com/@jennycorza/video/7695931849767390471",
+      "video_id": "7695931849767390471",
+      "views": 58
     },
     {
       "manager": "유연식",
@@ -2096,10 +2005,80 @@
     },
     {
       "manager": "유연식",
+      "creator": "nataliabarlet",
+      "url": "https://www.tiktok.com/@nataliabarlet/video/7699238110097362184",
+      "video_id": "7699238110097362184",
+      "views": 2508
+    },
+    {
+      "manager": "유연식",
+      "creator": "petalandphrase",
+      "url": "https://www.tiktok.com/@petalandphrase/video/7699408984964435231",
+      "video_id": "7699408984964435231",
+      "views": 996
+    },
+    {
+      "manager": "유연식",
+      "creator": "monsemac90",
+      "url": "https://www.tiktok.com/@monsemac90/video/7697397665142721823",
+      "video_id": "7697397665142721823",
+      "views": 316
+    },
+    {
+      "manager": "유연식",
+      "creator": "soyerikaperez",
+      "url": "https://www.tiktok.com/@soyerikaperez/video/7698943386245500190",
+      "video_id": "7698943386245500190",
+      "views": 552
+    },
+    {
+      "manager": "유연식",
+      "creator": "liizzified",
+      "url": "https://www.tiktok.com/@liizzified/video/7700396052486049031",
+      "video_id": "7700396052486049031",
+      "views": 1091
+    },
+    {
+      "manager": "유연식",
+      "creator": "paulinastyle2",
+      "url": "https://www.tiktok.com/@paulinastyle2/video/7698618922014117140",
+      "video_id": "7698618922014117140",
+      "views": 317
+    },
+    {
+      "manager": "유연식",
+      "creator": "z3r0fac3",
+      "url": "https://www.tiktok.com/@z3r0fac3/video/7699486062913113374",
+      "video_id": "7699486062913113374",
+      "views": 135
+    },
+    {
+      "manager": "유연식",
+      "creator": "parveetdoad",
+      "url": "https://www.tiktok.com/@parveetdoad/video/7698046894030785800",
+      "video_id": "7698046894030785800",
+      "views": 21600
+    },
+    {
+      "manager": "유연식",
+      "creator": "imanedel_",
+      "url": "https://www.tiktok.com/@imanedel_/video/7699564514102070535",
+      "video_id": "7699564514102070535",
+      "views": 2158
+    },
+    {
+      "manager": "유연식",
       "creator": "maggah15",
       "url": "https://www.tiktok.com/@maggah15/video/7700262061837765902",
       "video_id": "7700262061837765902",
       "views": 295
+    },
+    {
+      "manager": "유연식",
+      "creator": "glowwithasmita8",
+      "url": "https://www.tiktok.com/@glowwithasmita8/video/7692209612199709972",
+      "video_id": "7692209612199709972",
+      "views": 450
     },
     {
       "manager": "유연식",
@@ -2110,10 +2089,17 @@
     },
     {
       "manager": "유연식",
-      "creator": "couchboundrealitytv",
-      "url": "https://www.tiktok.com/@couchboundrealitytv/video/7699958354902519058",
-      "video_id": "7699958354902519058",
-      "views": 860
+      "creator": "ailene00007",
+      "url": "https://www.tiktok.com/@ailene00007/video/7700528231459441951",
+      "video_id": "7700528231459441951",
+      "views": 141
+    },
+    {
+      "manager": "유연식",
+      "creator": "goddesstisha3",
+      "url": "https://www.tiktok.com/@goddesstisha3/video/7700080243414961439",
+      "video_id": "7700080243414961439",
+      "views": 117
     },
     {
       "manager": "유연식",
@@ -2124,24 +2110,10 @@
     },
     {
       "manager": "유연식",
-      "creator": "makeup_bykarinaa",
-      "url": "https://www.tiktok.com/@makeup_bykarinaa/video/7697440214855257362",
-      "video_id": "7697440214855257362",
-      "views": 668
-    },
-    {
-      "manager": "유연식",
-      "creator": "kristinamarievillarreal",
-      "url": "https://www.tiktok.com/@kristinamarievillarreal/video/7700773281665748254",
-      "video_id": "7700773281665748254",
-      "views": 269
-    },
-    {
-      "manager": "유연식",
-      "creator": "jd_meet22",
-      "url": "https://www.tiktok.com/@jd_meet22/video/7700702891371154740",
-      "video_id": "7700702891371154740",
-      "views": 314
+      "creator": "thetwirlsaga",
+      "url": "https://www.tiktok.com/@thetwirlsaga/video/7698460691887426822",
+      "video_id": "7698460691887426822",
+      "views": 823
     },
     {
       "manager": "유연식",
@@ -2152,17 +2124,38 @@
     },
     {
       "manager": "유연식",
-      "creator": "thetwirlsaga",
-      "url": "https://www.tiktok.com/@thetwirlsaga/video/7698460691887426822",
-      "video_id": "7698460691887426822",
-      "views": 823
-    },
-    {
-      "manager": "유연식",
       "creator": "pratikshaa_sharma_",
       "url": "https://www.tiktok.com/@pratikshaa_sharma_/video/7700674169008114950",
       "video_id": "7700674169008114950",
       "views": 353
+    },
+    {
+      "manager": "유연식",
+      "creator": "keiisand_",
+      "url": "https://www.tiktok.com/@keiisand_/video/7697100524981669127",
+      "video_id": "7697100524981669127",
+      "views": 284
+    },
+    {
+      "manager": "유연식",
+      "creator": "couchboundrealitytv",
+      "url": "https://www.tiktok.com/@couchboundrealitytv/video/7699958354902519058",
+      "video_id": "7699958354902519058",
+      "views": 860
+    },
+    {
+      "manager": "유연식",
+      "creator": "madiduong",
+      "url": "https://www.tiktok.com/@madiduong/video/7700878459488193812",
+      "video_id": "7700878459488193812",
+      "views": 2743
+    },
+    {
+      "manager": "유연식",
+      "creator": "kristinamarievillarreal",
+      "url": "https://www.tiktok.com/@kristinamarievillarreal/video/7700773281665748254",
+      "video_id": "7700773281665748254",
+      "views": 270
     },
     {
       "manager": "유연식",
@@ -2173,80 +2166,10 @@
     },
     {
       "manager": "유연식",
-      "creator": "madiduong",
-      "url": "https://www.tiktok.com/@madiduong/video/7700878459488193812",
-      "video_id": "7700878459488193812",
-      "views": 2741
-    },
-    {
-      "manager": "유연식",
-      "creator": "kianadoost",
-      "url": "https://www.tiktok.com/@kianadoost/video/7701291675217382677",
-      "video_id": "7701291675217382677",
-      "views": 5192
-    },
-    {
-      "manager": "유연식",
-      "creator": "jullekang",
-      "url": "https://www.tiktok.com/@jullekang/video/7701334621744712981",
-      "video_id": "7701334621744712981",
-      "views": 1361
-    },
-    {
-      "manager": "유연식",
-      "creator": "kivette.rey",
-      "url": "https://www.tiktok.com/@kivette.rey/video/7701470512614067476",
-      "video_id": "7701470512614067476",
-      "views": 705
-    },
-    {
-      "manager": "유연식",
-      "creator": "trip.2020",
-      "url": "https://www.tiktok.com/@trip.2020/video/7701157799014829343",
-      "video_id": "7701157799014829343",
-      "views": 138
-    },
-    {
-      "manager": "유연식",
-      "creator": "raquel.ugc2001",
-      "url": "https://www.tiktok.com/@raquel.ugc2001/video/7701789765858856244",
-      "video_id": "7701789765858856244",
-      "views": 286
-    },
-    {
-      "manager": "유연식",
-      "creator": "arii.garc1a",
-      "url": "https://www.tiktok.com/@arii.garc1a/video/7702043075664678158",
-      "video_id": "7702043075664678158",
-      "views": 102
-    },
-    {
-      "manager": "유연식",
-      "creator": "charah_content_creator",
-      "url": "https://www.tiktok.com/@charah_content_creator/video/7701728614634573074",
-      "video_id": "7701728614634573074",
-      "views": 17500
-    },
-    {
-      "manager": "유연식",
-      "creator": "cynthia_pineda",
-      "url": "https://www.tiktok.com/@cynthia_pineda/video/7701359432961412372",
-      "video_id": "7701359432961412372",
-      "views": 73800
-    },
-    {
-      "manager": "유연식",
-      "creator": "n1nanova",
-      "url": "https://www.tiktok.com/@n1nanova/video/7699972550738152711",
-      "video_id": "7699972550738152711",
-      "views": 787
-    },
-    {
-      "manager": "유연식",
-      "creator": "glowwithsim0",
-      "url": "https://www.tiktok.com/@glowwithsim0/video/7701745647216790791",
-      "video_id": "7701745647216790791",
-      "views": 3773
+      "creator": "jd_meet22",
+      "url": "https://www.tiktok.com/@jd_meet22/video/7700702891371154740",
+      "video_id": "7700702891371154740",
+      "views": 314
     },
     {
       "manager": "유연식",
@@ -2257,10 +2180,24 @@
     },
     {
       "manager": "유연식",
-      "creator": ".ninamendesss",
-      "url": "https://www.tiktok.com/@.ninamendesss/video/7699233456785460511",
-      "video_id": "7699233456785460511",
-      "views": 12300
+      "creator": "makeup_bykarinaa",
+      "url": "https://www.tiktok.com/@makeup_bykarinaa/video/7697440214855257362",
+      "video_id": "7697440214855257362",
+      "views": 668
+    },
+    {
+      "manager": "유연식",
+      "creator": "glowwithsim0",
+      "url": "https://www.tiktok.com/@glowwithsim0/video/7701745647216790791",
+      "video_id": "7701745647216790791",
+      "views": 3774
+    },
+    {
+      "manager": "유연식",
+      "creator": "spglam_",
+      "url": "https://www.tiktok.com/@spglam_/video/7700404296197754132",
+      "video_id": "7700404296197754132",
+      "views": 4152
     },
     {
       "manager": "유연식",
@@ -2271,17 +2208,80 @@
     },
     {
       "manager": "유연식",
-      "creator": "marianamakep",
-      "url": "https://www.tiktok.com/@marianamakep/video/7701110256268561684",
-      "video_id": "7701110256268561684",
-      "views": 552
+      "creator": "kianadoost",
+      "url": "https://www.tiktok.com/@kianadoost/video/7701291675217382677",
+      "video_id": "7701291675217382677",
+      "views": 5192
     },
     {
       "manager": "유연식",
-      "creator": "brieelase",
-      "url": "https://www.tiktok.com/@brieelase/video/7702302966748826901",
-      "video_id": "7702302966748826901",
-      "views": 333
+      "creator": "cynthia_pineda",
+      "url": "https://www.tiktok.com/@cynthia_pineda/video/7701359432961412372",
+      "video_id": "7701359432961412372",
+      "views": 73800
+    },
+    {
+      "manager": "유연식",
+      "creator": "jullekang",
+      "url": "https://www.tiktok.com/@jullekang/video/7701334621744712981",
+      "video_id": "7701334621744712981",
+      "views": 1361
+    },
+    {
+      "manager": "유연식",
+      "creator": "raquel.ugc2001",
+      "url": "https://www.tiktok.com/@raquel.ugc2001/video/7701789765858856244",
+      "video_id": "7701789765858856244",
+      "views": 286
+    },
+    {
+      "manager": "유연식",
+      "creator": "kivette.rey",
+      "url": "https://www.tiktok.com/@kivette.rey/video/7701470512614067476",
+      "video_id": "7701470512614067476",
+      "views": 705
+    },
+    {
+      "manager": "유연식",
+      "creator": ".ninamendesss",
+      "url": "https://www.tiktok.com/@.ninamendesss/video/7699233456785460511",
+      "video_id": "7699233456785460511",
+      "views": 12300
+    },
+    {
+      "manager": "유연식",
+      "creator": "lizita_32",
+      "url": "https://www.tiktok.com/@lizita_32/video/7702081652280921357",
+      "video_id": "7702081652280921357",
+      "views": 602
+    },
+    {
+      "manager": "유연식",
+      "creator": "arii.garc1a",
+      "url": "https://www.tiktok.com/@arii.garc1a/video/7702043075664678158",
+      "video_id": "7702043075664678158",
+      "views": 102
+    },
+    {
+      "manager": "유연식",
+      "creator": "roxyboobeauty",
+      "url": "https://www.tiktok.com/@roxyboobeauty/video/7702295227091979533",
+      "video_id": "7702295227091979533",
+      "views": 791
+    },
+    {
+      "manager": "유연식",
+      "creator": "charah_content_creator",
+      "url": "https://www.tiktok.com/@charah_content_creator/video/7701728614634573074",
+      "video_id": "7701728614634573074",
+      "views": 17500
+    },
+    {
+      "manager": "유연식",
+      "creator": "trip.2020",
+      "url": "https://www.tiktok.com/@trip.2020/video/7701157799014829343",
+      "video_id": "7701157799014829343",
+      "views": 138
     },
     {
       "manager": "유연식",
@@ -2299,6 +2299,13 @@
     },
     {
       "manager": "유연식",
+      "creator": "africa.salgado2",
+      "url": "https://www.tiktok.com/@africa.salgado2/video/7698862053989059858",
+      "video_id": "7698862053989059858",
+      "views": 217
+    },
+    {
+      "manager": "유연식",
       "creator": "monseramon",
       "url": "https://www.tiktok.com/@itsmons.rat/video/7697054754962181384",
       "video_id": "7697054754962181384",
@@ -2306,24 +2313,24 @@
     },
     {
       "manager": "유연식",
-      "creator": "roxyboobeauty",
-      "url": "https://www.tiktok.com/@roxyboobeauty/video/7702295227091979533",
-      "video_id": "7702295227091979533",
-      "views": 791
+      "creator": "n1nanova",
+      "url": "https://www.tiktok.com/@n1nanova/video/7699972550738152711",
+      "video_id": "7699972550738152711",
+      "views": 787
     },
     {
       "manager": "유연식",
-      "creator": "lizita_32",
-      "url": "https://www.tiktok.com/@lizita_32/video/7702081652280921357",
-      "video_id": "7702081652280921357",
-      "views": 602
+      "creator": "marianamakep",
+      "url": "https://www.tiktok.com/@marianamakep/video/7701110256268561684",
+      "video_id": "7701110256268561684",
+      "views": 552
     },
     {
       "manager": "유연식",
-      "creator": "africa.salgado2",
-      "url": "https://www.tiktok.com/@africa.salgado2/video/7698862053989059858",
-      "video_id": "7698862053989059858",
-      "views": 217
+      "creator": "brieelase",
+      "url": "https://www.tiktok.com/@brieelase/video/7702302966748826901",
+      "video_id": "7702302966748826901",
+      "views": 333
     }
   ]
 }
