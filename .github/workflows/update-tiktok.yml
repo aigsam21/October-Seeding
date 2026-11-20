@@ -32,9 +32,9 @@ jobs:
         run: node update_tiktok.mjs
       - name: Save updated metrics.json
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add metrics.json
-          if ! git diff --cached --quiet; then
-            git commit -m 'Update TikTok views from Apify'
-            git push
+          git diff --cached --quiet && exit 0
+          git commit -m "Update TikTok views from Apify"
+          git push
