@@ -1,0 +1,45 @@
+
+name: Update Instagram views
+
+on:
+  workflow_dispatch:
+    inputs:
+      test_mode:
+        description: 'Test 3 videos or check all'
+        required: true
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+        default: 'true'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Collect Instagram views from Apify
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          TEST_MODE: ${{ inputs.test_mode || 'false' }}
+        run: node update_instagram.mjs
+
+      - name: Save updated Instagram metrics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add instagram_metrics.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Update Instagram views from Apify"
+          git pull --rebase origin main
+          git push
