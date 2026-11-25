@@ -12,6 +12,7 @@ const monthlyData = {
     '9월': [168,116],
     '10월': [117,117]
   },
+
   '신유': {
     '5월': [119,119],
     '6월': [108,107],
@@ -20,6 +21,7 @@ const monthlyData = {
     '9월': [147,99],
     '10월': [120,118]
   },
+
   '유연식': {
     '5월': [100,100],
     '6월': [101,97],
@@ -31,11 +33,18 @@ const monthlyData = {
 };
 
 const months = [
-  '5월','6월','7월','8월','9월','10월'
+  '5월',
+  '6월',
+  '7월',
+  '8월',
+  '9월',
+  '10월'
 ];
 
 const managers = [
-  '강미경','신유','유연식'
+  '강미경',
+  '신유',
+  '유연식'
 ];
 
 const monthTable =
@@ -55,27 +64,32 @@ function monthCell(vals, month) {
 let html =
   '<div class="monthly-row monthly-header">' +
   cell('담당자','monthly-person') +
+
   months.map(m =>
     cell(
       `<strong>${m}</strong><small>콘텐츠 / 크리에이터</small>`,
       m === '10월' ? 'current-month' : ''
     )
   ).join('') +
+
   '</div>';
 
 for (const manager of managers) {
   html +=
     '<div class="monthly-row">' +
     cell(manager,'monthly-person') +
+
     months.map(m =>
       monthCell(monthlyData[manager][m],m)
     ).join('') +
+
     '</div>';
 }
 
 html +=
   '<div class="monthly-row monthly-total">' +
   cell('TOTAL','monthly-person') +
+
   months.map(m =>
     monthCell(
       managers.reduce(
@@ -88,6 +102,7 @@ html +=
       m
     )
   ).join('') +
+
   '</div>';
 
 monthTable.innerHTML = html;
@@ -122,7 +137,9 @@ function getVideoKey(v, platform) {
       || normalizeUrl(url);
   }
 
-  return url.match(/\/(?:reels?|p|tv)\/([^/?#]+)/)?.[1]
+  return url.match(
+    /\/(?:reels?|p|tv)\/([^/?#]+)/
+  )?.[1]
     || v.video_id
     || normalizeUrl(url);
 }
@@ -154,6 +171,7 @@ async function loadMetrics(file, platform) {
     const unique = new Map();
 
     for (const v of videos) {
+
       if (
         typeof v.views !== 'number' ||
         !Number.isFinite(v.views) ||
@@ -177,6 +195,7 @@ async function loadMetrics(file, platform) {
     };
 
   } catch (error) {
+
     console.warn(
       platform + ' metrics unavailable',
       error
@@ -193,9 +212,10 @@ function videoLink(v) {
   try {
     const url = new URL(v.url);
 
-    const validHost = v.platform === 'TikTok'
-      ? /(^|\.)tiktok\.com$/.test(url.hostname)
-      : /(^|\.)instagram\.com$/.test(url.hostname);
+    const validHost =
+      v.platform === 'TikTok'
+        ? /(^|\.)tiktok\.com$/.test(url.hostname)
+        : /(^|\.)instagram\.com$/.test(url.hostname);
 
     if (
       url.protocol !== 'https:' ||
@@ -219,6 +239,7 @@ const groups = {
 };
 
 function renderViews() {
+
   const tiktok = groups.TikTok;
   const instagram = groups.Instagram;
 
@@ -232,7 +253,9 @@ function renderViews() {
   document.getElementById(
     'total-views'
   ).textContent =
-    videos.length ? number(total) : '—';
+    videos.length
+      ? number(total)
+      : '—';
 
   document.getElementById(
     'tiktok-views'
@@ -255,10 +278,7 @@ function renderViews() {
       ? number(Math.round(total / videos.length))
       : '—';
 
-  document.getElementById(
-    'tracked-videos'
-  ).textContent =
-    number(videos.length) + '개';
+  // Update manager KPI table.
 
   document.querySelectorAll(
     '[data-manager]'
@@ -272,11 +292,17 @@ function renderViews() {
 
     el.textContent =
       manager === 'TOTAL'
-        ? (videos.length ? number(total) : '—')
+        ? (
+            videos.length
+              ? number(total)
+              : '—'
+          )
         : subset.length
           ? number(sumViews(subset))
           : '—';
   });
+
+  // Combined TikTok and Instagram TOP 10.
 
   const top = [...videos]
     .sort((a,b) => b.views - a.views)
@@ -285,6 +311,7 @@ function renderViews() {
   document.getElementById(
     'top-videos'
   ).innerHTML = top.length
+
     ? top.map((v,i) => `
       <tr>
         <td>${i+1}</td>
@@ -295,8 +322,11 @@ function renderViews() {
         <td>${videoLink(v)}</td>
       </tr>
     `).join('')
+
     : '<tr><td colspan="6">집계 대기 중</td></tr>';
 }
+
+// Load TikTok metrics.
 
 loadMetrics(
   'metrics.json',
@@ -305,6 +335,8 @@ loadMetrics(
   groups.TikTok = result.videos;
   renderViews();
 });
+
+// Load Instagram metrics.
 
 loadMetrics(
   'instagram_metrics.json',
